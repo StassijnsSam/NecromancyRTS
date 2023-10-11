@@ -1,0 +1,2 @@
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4\Shipping\DemoProject\Definitions.DemoProject.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\DemoProject.h

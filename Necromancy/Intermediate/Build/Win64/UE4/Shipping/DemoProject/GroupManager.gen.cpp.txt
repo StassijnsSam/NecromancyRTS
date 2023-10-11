@@ -1,0 +1,13 @@
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4\Shipping\DemoProject\Definitions.DemoProject.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject/GroupManager.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\ZombieGroup.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\Spline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SplineComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SplineMeshComponent.generated.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4\Inc\DemoProject\Spline.generated.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4\Inc\DemoProject\ZombieGroup.generated.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4\Inc\DemoProject\GroupManager.generated.h

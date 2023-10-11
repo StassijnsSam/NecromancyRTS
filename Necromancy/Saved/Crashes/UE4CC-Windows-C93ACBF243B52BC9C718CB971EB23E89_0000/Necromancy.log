@@ -1,0 +1,1494 @@
+﻿Log file open, 12/14/22 08:36:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Necromancy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.276225
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername="N PhoeNix" -epicuserid=8e0b38fb204e4803b179331993acc11a -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.14-07.36.20:280][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.14-07.36.20:281][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.14-07.36.20:281][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.14-07.36.20:281][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.14-07.36.20:281][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.14-07.36.20:281][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.14-07.36.20:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:281][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.14-07.36.20:288][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.14-07.36.20:289][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.14-07.36.20:289][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.14-07.36.20:289][  0]LogHAL: Display: Platform has ~ 16 GB [16799985664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.14-07.36.20:289][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.14-07.36.20:289][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.14-07.36.20:289][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.14-07.36.20:290][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Editor.ini]
+[2022.12.14-07.36.20:290][  0]LogInit: Computer: SAMPLE
+[2022.12.14-07.36.20:290][  0]LogInit: User: stass
+[2022.12.14-07.36.20:290][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.14-07.36.20:290][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.14-07.36.20:291][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2022.12.14-07.36.20:291][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.14-07.36.20:291][  0]LogMemory: Process Physical Memory: 144.26 MB used, 144.26 MB peak
+[2022.12.14-07.36.20:291][  0]LogMemory: Process Virtual Memory: 129.34 MB used, 129.34 MB peak
+[2022.12.14-07.36.20:291][  0]LogMemory: Physical Memory: 12956.38 MB used,  3065.33 MB free, 16021.71 MB total
+[2022.12.14-07.36.20:291][  0]LogMemory: Virtual Memory: 134181512.00 MB used,  36217.38 MB free, 134217728.00 MB total
+[2022.12.14-07.36.20:299][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.14-07.36.20:360][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.14-07.36.20:360][  0]LogInit: Using OS detected language (nl-NL).
+[2022.12.14-07.36.20:360][  0]LogInit: Using OS detected locale (nl-BE).
+[2022.12.14-07.36.20:366][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2022.12.14-07.36.20:607][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.14-07.36.20:621][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.14-07.36.20:637][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.14-07.36.20:637][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.14-07.36.20:764][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.14-07.36.20:808][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.14-07.36.20:808][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.14-07.36.20:808][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.14-07.36.20:808][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.14-07.36.20:895][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_0)
+[2022.12.14-07.36.20:895][  0]LogD3D11RHI:       8044/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.14-07.36.20:944][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.12.14-07.36.20:944][  0]LogD3D11RHI:       128/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:       0/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     DeviceId    : 249d
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     SubSysId    : 88f4103c
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     SharedSystemMemory : 8399992832 bytes
+[2022.12.14-07.36.20:947][  0]LogD3D11RHI:     AdapterLuid : 0 78417
+[2022.12.14-07.36.20:955][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.14-07.36.20:956][  0]LogD3D11RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2022.12.14-07.36.20:956][  0]LogWindows: EnumDisplayDevices:
+[2022.12.14-07.36.20:956][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.12.14-07.36.20:956][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.14-07.36.20:956][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.14-07.36.20:956][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.14-07.36.20:956][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.14-07.36.20:956][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.14-07.36.20:956][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.14-07.36.20:957][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.14-07.36.20:957][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:      Driver Date: 5-5-2022
+[2022.12.14-07.36.20:957][  0]LogRHI: Texture pool is 5630 MB (70% of 8044 MB)
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     DeviceId    : 249d
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     SubSysId    : 88f4103c
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     SharedSystemMemory : 8399992832 bytes
+[2022.12.14-07.36.20:957][  0]LogD3D11RHI:     AdapterLuid : 0 78417
+[2022.12.14-07.36.21:016][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.14-07.36.21:016][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.14-07.36.21:017][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.14-07.36.21:031][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.14-07.36.21:061][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.14-07.36.21:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.14-07.36.21:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.14-07.36.21:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.14-07.36.21:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.14-07.36.21:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.14-07.36.21:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.14-07.36.21:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.14-07.36.21:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.14-07.36.21:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.14-07.36.21:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.14-07.36.21:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.14-07.36.21:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.14-07.36.21:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.14-07.36.21:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.14-07.36.21:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.14-07.36.21:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.14-07.36.21:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.14-07.36.21:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.14-07.36.21:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.14-07.36.21:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.14-07.36.21:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.14-07.36.21:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.14-07.36.21:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.14-07.36.21:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.14-07.36.21:632][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.14-07.36.21:689][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.14-07.36.21:746][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.14-07.36.21:746][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/stass/Documents/UE4/Necromancy/Intermediate/Shaders/WorkingDirectory/3052/).
+[2022.12.14-07.36.21:746][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stass/AppData/Local/Temp/UnrealShaderWorkingDir/29C476684DD41D3234BD18A8294FF699/'.
+[2022.12.14-07.36.21:746][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.14-07.36.21:746][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.14-07.36.21:746][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.14-07.36.22:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.14-07.36.22:597][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.14-07.36.22:597][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.14-07.36.22:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/stass/Documents/UE4/Necromancy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.14-07.36.22:599][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.14-07.36.22:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/stass/Documents/UE4/Necromancy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.14-07.36.22:599][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.14-07.36.22:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.14-07.36.22:616][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.14-07.36.22:616][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.14-07.36.22:623][  0]LogDerivedDataCache: Speed tests for C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.14-07.36.22:623][  0]LogDerivedDataCache: Display: Performance to C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1149.61MBs, RandomWriteSpeed=167.07MBs. Assigned SpeedClass 'Local'
+[2022.12.14-07.36.22:624][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.14-07.36.22:624][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.14-07.36.22:624][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.14-07.36.22:673][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.14-07.36.22:673][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.14-07.36.22:697][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2022.12.14-07.36.22:955][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.14-07.36.22:955][  0]LogInit: Active device profile: [0000024070268900][0000024065A77B80 49] Windows
+[2022.12.14-07.36.22:955][  0]LogInit: Profiles: [0000024070268900][0000024065A77B80 49] Windows, [0000024070227800][000002406E5AA180 49] WindowsNoEditor, [000002407026B500][000002406CE1C300 49] WindowsServer, [0000024070224E00][000002406CE20480 49] WindowsClient, [000002407026B800][000002406E5A65C0 49] IOS, [0000024070226800][000002406CE24700 49] iPadAir, [000002407026A000][000002406CE28840 49] iPadAir2, [00000240711C8A00][000002406CE34AC0 49] IPadPro, [00000240711C8B00][000002406CE2CB00 49] iPadAir3, [0000024070225900][000002406CE38C80 49] iPadAir4, [00000240711CB400][000002406CE3CE00 49] iPadMini2, [0000024070226A00][000002406CE40F80 49] iPadMini3, [00000240711C9700][000002406CE45100 49] iPadMini4, [0000024070269100][000002406CE49280 49] iPadMini5, [00000240711E8300][000002406CF0F540 49] iPhone6, [00000240711E8400][000002406CE4D580 49] iPodTouch6, [00000240711B7F00][000002406CF17840 49] iPhone7, [00000240711B7E00][000002406CF13880 49] iPodTouch7, [0000024070226000][000002406CF1BA00 49] iPhone5S, [00000240711B5A00][000002406CF1FB80 49] iPhone6Plus, [00000240711E8200][000002406CF22180 49] iPhone6S, [00000240711B4600][000002406CF26300 49] iPhone6SPlus, [00000240711EA900][000002406CF2A480 49] iPhone7Plus, [00000240711B7100][000002406CF2E600 49] iPhoneSE, [00000240711EA200][000002406CE30740 49] iPhone8, [00000240711B7B00][000002406CF32880 49] iPhone8Plus, [00000240711E8A00][000002406CF369C0 49] iPhoneX, [00000240711B5400][000002406CF3AB00 49] iPhoneXS, [00000240711EB900][000002406CF42C80 49] iPhoneXSMax, [00000240711B4900][000002406CF46E00 49] iPhoneXR, [00000240711EAF00][000002406CF4AF80 49] iPhone11, [00000240711B5300][000002406CF4F100 49] iPhone11Pro, [00000240711E9000][000002406CF53280 49] iPhone11ProMax, [00000240711B6A00][000002406CF57400 49] iPhoneSE2, [00000240711E9400][000002406CF5B580 49] iPhone12Mini, [00000240711B6400][000002406CF5F700 49] iPhone12, [00000240711E8D00][000002406CF63880 49] iPhone12Pro, [00000240711B6B00][000002406CF67A00 49] iPhone12ProMax, [00000240711EB000][000002406E329B80 49] iPadPro105, [00000240711B4700][000002406E32C180 49] iPadPro129, [00000240711EA800][000002406E330300 49] iPadPro97, [00000240711B6600][000002406E334480 49] iPadPro2_129, [00000240711EBC00][000002406E338600 49] iPad5, [00000240711B6200][000002406E33C780 49] iPad6, [00000240711E8F00][000002406E340900 49] iPad7, [00000240711B6D00][000002406CF3EA40 49] iPad8, [00000240711E9100][000002406E344B80 49] iPadPro11, [00000240711B5600][000002406E348CC0 49] iPadPro2_11, [00000240711EB400][000002406E350E40 49] iPadPro3_129, [00000240711B6800][000002406E354FC0 49] iPadPro4_129, [00000240711EBA00][000002406E359140 49] AppleTV, [00000240711B6100][000002406E35D2C0 49] AppleTV4K, [00000240711E9F00][000002406E361440 49] TVOS, [00000240711B7400][000002406E3655C0 49] Mac, [00000240711EB800][000002406E369740 49] MacClient, [00000240711B5E00][000002406E36D8C0 49] MacNoEditor, [00000240711EBF00][000002406E371A40 49] MacServer, [00000240711B7500][000002406E375BC0 49] Linux, [00000240711E8C00][000002406E3781C0 49] LinuxAArch64, [00000240711B6F00][000002406E37C340 49] LinuxNoEditor, [00000240711E8B00][000002406E3804C0 49] LinuxAArch64NoEditor, [00000240711B7700][000002406E384640 49] LinuxClient, [00000240711E9A00][000002406E3887C0 49] LinuxAArch64Client, [00000240711B5000][000002406F104940 49] LinuxServer, [00000240711EA500][000002406F108AC0 49] LinuxAArch64Server, [00000240711B5900][000002406E34CC00 49] Android, [00000240711E9300][000002406F10CD40 49] Android_Low, [00000240711B6700][000002406F110E80 49] Android_Mid, [00000240711EAB00][000002406F114FC0 49] Android_High, [00000240711B7800][000002406F11D140 49] Android_Default, [00000240711E9600][000002406F1212C0 49] Android_Adreno4xx, [00000240711B5500][000002406F125440 49] Android_Adreno5xx_Low, [00000240711CB600][000002406F1295C0 49] Android_Adreno5xx, [0000024070225800][000002406F12D740 49] Android_Adreno6xx, [00000240711C9200][000002406F1318C0 49] Android_Adreno6xx_Vulkan, [0000024070227C00][000002406F135A40 49] Android_Mali_T6xx, [00000240711C9100][000002406F139BC0 49] Android_Mali_T7xx, [0000024070225600][000002406F13C1C0 49] Android_Mali_T8xx, [00000240711C9E00][000002406F140340 49] Android_Mali_G71, [0000024070224500][000002406F1444C0 49] Android_Mali_G72, [00000240711C8800][000002406F148640 49] Android_Mali_G72_Vulkan, [0000024070225300][000002406F14C7C0 49] Android_Mali_G76, [00000240711C8100][000002406F150940 49] Android_Mali_G76_Vulkan, [0000024070225F00][0000024068BE2AC0 49] Android_Mali_G77, [00000240711C9000][0000024068BE6C40 49] Android_Mali_G77_Vulkan, [0000024070224A00][000002406F118D80 49] Android_Mali_G78, [00000240711CAC00][0000024068BEAEC0 49] Android_Mali_G78_Vulkan, [0000024070227600][0000024068BEF000 49] Android_Mali_G710, [00000240711CAA00][0000024068BF3140 49] Android_Mali_G710_Vulkan, [0000024070227F00][0000024068BFB2C0 49] Android_Vulkan_SM5, [00000240711CBB00][0000024068BFF440 49] Android_PowerVR_G6xxx, [0000024070227B00][0000024068C035C0 49] Android_PowerVR_GT7xxx, [00000240711CB900][0000024068C07740 49] Android_PowerVR_GE8xxx, [0000024070224C00][0000024068C0B8C0 49] Android_PowerVR_GM9xxx, [00000240711CA700][0000024068C0FA40 49] Android_PowerVR_GM9xxx_Vulkan, [0000024070226700][0000024068C13BC0 49] Android_TegraK1, [00000240711C8900][0000024068C161C0 49] Android_Unknown_Vulkan, [0000024070225D00][0000024068C1E340 49] Lumin, [00000240711C8500][0000024068C264C0 49] Lumin_Desktop, [0000024070227300][0000024068C2A640 49] HoloLens, 
+[2022.12.14-07.36.23:135][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.14-07.36.23:135][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.14-07.36.23:135][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.14-07.36.23:135][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.14-07.36.23:135][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.14-07.36.23:156][  0]LogNetVersion: Necromancy 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3922813145)
+[2022.12.14-07.36.23:526][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.14-07.36.23:598][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.14-07.36.23:605][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.14-07.36.23:605][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.14-07.36.23:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.14-07.36.23:951][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4628621C41FB5BC794DB8C8D5BFD76D7 | Instance: 7133CC11469F5CD64AD29FB59E2E2496 (SAMPLE-3052).
+[2022.12.14-07.36.24:023][  0]LogPython: Using Python 3.7.7
+[2022.12.14-07.36.24:622][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.14-07.36.24:629][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.14-07.36.25:158][  0]SourceControl: Source control is disabled
+[2022.12.14-07.36.25:158][  0]SourceControl: Source control is disabled
+[2022.12.14-07.36.25:163][  0]SourceControl: Source control is disabled
+[2022.12.14-07.36.25:180][  0]SourceControl: Source control is disabled
+[2022.12.14-07.36.25:214][  0]SourceControl: Source control is disabled
+[2022.12.14-07.36.25:226][  0]LogUProjectInfo: Found projects:
+[2022.12.14-07.36.25:365][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.14-07.36.25:439][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.14-07.36.25:469][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.14-07.36.25:469][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.14-07.36.25:662][  0]LogCollectionManager: Loaded 0 collections in 0.002127 seconds
+[2022.12.14-07.36.25:703][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Saved/Collections/' took 0.00s
+[2022.12.14-07.36.25:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Content/Developers/stass/Collections/' took 0.00s
+[2022.12.14-07.36.25:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Content/Collections/' took 0.00s
+[2022.12.14-07.36.25:704][  0]LogOcInput: OculusInput pre-init called
+[2022.12.14-07.36.25:950][  0]LogEngine: Initializing Engine...
+[2022.12.14-07.36.25:959][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.14-07.36.25:960][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.14-07.36.25:960][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.14-07.36.25:962][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.14-07.36.26:123][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.14-07.36.26:140][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.14-07.36.26:142][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.14-07.36.26:149][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.14-07.36.26:150][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.14-07.36.26:151][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.14-07.36.26:151][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-07.36.26:151][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-07.36.26:151][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-07.36.26:151][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-07.36.26:151][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-07.36.26:151][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-07.36.26:170][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-07.36.26:170][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-07.36.26:326][  0]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.14-07.36.26:331][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-07.36.26:333][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-07.36.26:333][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-07.36.26:334][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.14-07.36.26:334][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.14-07.36.26:334][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.14-07.36.26:336][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.14-07.36.26:336][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.14-07.36.26:336][  0]LogInit: FAudioDevice initialized.
+[2022.12.14-07.36.26:336][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.14-07.36.26:336][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.14-07.36.26:389][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.14-07.36.26:389][  0]LogInit: Texture streaming: Enabled
+[2022.12.14-07.36.26:408][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.14-07.36.26:414][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.14-07.36.26:414][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.14-07.36.26:416][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.14-07.36.26:451][  0]LogInit: Transaction tracking system initialized
+[2022.12.14-07.36.26:483][  0]BlueprintLog: New page: Editor Load
+[2022.12.14-07.36.26:570][  0]LocalizationService: Localization service is disabled
+[2022.12.14-07.36.26:607][  0]TimingProfiler: Initialize
+[2022.12.14-07.36.26:607][  0]TimingProfiler: OnSessionChanged
+[2022.12.14-07.36.26:607][  0]LoadingProfiler: Initialize
+[2022.12.14-07.36.26:607][  0]LoadingProfiler: OnSessionChanged
+[2022.12.14-07.36.26:607][  0]NetworkingProfiler: Initialize
+[2022.12.14-07.36.26:607][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.14-07.36.26:607][  0]MemoryProfiler: Initialize
+[2022.12.14-07.36.26:607][  0]MemoryProfiler: OnSessionChanged
+[2022.12.14-07.36.26:765][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.14-07.36.26:765][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.14-07.36.27:030][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Content/' took 0.01s
+[2022.12.14-07.36.27:190][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.14-07.36.27:194][  0]SourceControl: Source control is disabled
+[2022.12.14-07.36.27:365][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.14-07.36.30:705][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.12.14-07.36.30:716][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.718
+[2022.12.14-07.36.30:717][  0]Cmd: MAP LOAD FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.14-07.36.30:718][  0]LightingResults: New page: Lighting Build
+[2022.12.14-07.36.30:720][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.36.30:720][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.36.30:721][  0]MapCheck: New page: Map Check
+[2022.12.14-07.36.30:721][  0]LightingResults: New page: Lighting Build
+[2022.12.14-07.36.30:726][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-07.36.30:731][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.12.14-07.36.31:202][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2022.12.14-07.36.31:204][  0]LogAIModule: Creating AISystem for world Level01
+[2022.12.14-07.36.31:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.14-07.36.31:242][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.14-07.36.31:242][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.14-07.36.31:243][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,224ms to complete.
+[2022.12.14-07.36.31:243][  0]LogFileHelpers: Loading map 'Level01' took 0.526
+[2022.12.14-07.36.31:247][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.249
+[2022.12.14-07.36.31:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.36.31:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.36.31:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.36.31:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.36.31:358][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3823 classes and 930 folders.
+[2022.12.14-07.36.31:363][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.14-07.36.31:368][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.14-07.36.31:368][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:368][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.14-07.36.31:368][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:368][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.14-07.36.31:368][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.14-07.36.31:370][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.14-07.36.31:370][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:370][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.14-07.36.31:370][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:370][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.14-07.36.31:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.12.14-07.36.31:371][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.14-07.36.31:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.14-07.36.31:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.14-07.36.31:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.12.14-07.36.31:373][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.14-07.36.31:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.14-07.36.31:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.14-07.36.31:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.14-07.36.31:374][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.14-07.36.31:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.14-07.36.31:374][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:374][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.14-07.36.31:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.14-07.36.31:375][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.14-07.36.31:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.14-07.36.31:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.14-07.36.31:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.14-07.36.31:376][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.14-07.36.31:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.14-07.36.31:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.14-07.36.31:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.12.14-07.36.31:377][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.14-07.36.31:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.14-07.36.31:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:378][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.14-07.36.31:378][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.12.14-07.36.31:379][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.14-07.36.31:379][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:379][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.14-07.36.31:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:379][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.14-07.36.31:379][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.14-07.36.31:381][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.14-07.36.31:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.14-07.36.31:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:381][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.14-07.36.31:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.14-07.36.31:383][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.14-07.36.31:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.14-07.36.31:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.14-07.36.31:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.12.14-07.36.31:384][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.14-07.36.31:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.14-07.36.31:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.14-07.36.31:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.14-07.36.31:386][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.14-07.36.31:386][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:386][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.14-07.36.31:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:386][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.14-07.36.31:386][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.14-07.36.31:387][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.14-07.36.31:387][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:387][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.14-07.36.31:387][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:387][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.14-07.36.31:387][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.14-07.36.31:388][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.14-07.36.31:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.14-07.36.31:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.14-07.36.31:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.14-07.36.31:388][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.14-07.36.31:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.14-07.36.31:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.14-07.36.31:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.14-07.36.31:390][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.14-07.36.31:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.14-07.36.31:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.14-07.36.31:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.14-07.36.31:391][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.14-07.36.31:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.14-07.36.31:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.14-07.36.31:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.14-07.36.31:392][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.14-07.36.31:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.14-07.36.31:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.14-07.36.31:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.14-07.36.31:393][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.14-07.36.31:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.14-07.36.31:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.14-07.36.31:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.14-07.36.31:394][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.14-07.36.31:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.14-07.36.31:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.14-07.36.31:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.14-07.36.31:395][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.14-07.36.31:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.14-07.36.31:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.14-07.36.31:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.14-07.36.31:396][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.14-07.36.31:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.14-07.36.31:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.14-07.36.31:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.14-07.36.31:397][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.14-07.36.31:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.14-07.36.31:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.14-07.36.31:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.14-07.36.31:398][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.14-07.36.31:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.14-07.36.31:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.14-07.36.31:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.14-07.36.31:400][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.14-07.36.31:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.14-07.36.31:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.14-07.36.31:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.14-07.36.31:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.14-07.36.31:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.14-07.36.31:520][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.12.14-07.36.31:528][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.12.14-07.36.31:572][  0]LogSlate: Took 0.000970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.14-07.36.31:573][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.14-07.36.31:631][  0]LogRenderer: Reallocating scene render targets to support 848x392 Format 10 NumSamples 1 (Frame:1).
+[2022.12.14-07.36.31:715][  0]LogSlate: Took 0.000741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.14-07.36.31:763][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.14-07.36.31:763][  0]LogLoad: (Engine Initialization) Total time: 12.77 seconds
+[2022.12.14-07.36.31:763][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.14-07.36.31:807][  0]LogAssetRegistry: Asset discovery search completed in 9.1112 seconds
+[2022.12.14-07.36.31:813][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.12.14-07.36.31:815][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.14-07.36.32:838][ 47]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.14-07.36.33:497][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.36.33:750][ 79]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.12.14-07.36.34:624][ 79]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.14-07.36.36:376][169]LogRenderer: Reallocating scene render targets to support 848x444 Format 10 NumSamples 1 (Frame:1).
+[2022.12.14-07.36.37:123][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.36.37:149][198]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearDE74D0CB483C64C989875EA265352369.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.36.37:169][198]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.36.37:169][198]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.36.44:431][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.36.44:439][556]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearEB1825DE480A36BF9AE5F69C0CE8CF2C.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.36.44:452][556]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.36.44:452][556]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.36.45:117][584]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.36.45:157][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.12.14-07.36.45:185][584]LogSlate: Took 0.000969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.14-07.36.45:729][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.36.45:737][607]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear0397ADF34D341B38ED052ABF00122A68.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.36.45:752][607]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.36.45:752][607]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.36.46:573][641]LogSlate: Took 0.000846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.14-07.37.24:592][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.37.24:601][667]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear1B2DCE67484180FA62F2888911060A21.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.37.24:619][667]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.37.24:619][667]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.37.25:309][693]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.37.25:366][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.12.14-07.37.43:888][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.37.43:895][647]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearC4F3C1F946379D532D7F0BAFD0B0F557.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.37.43:911][647]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.37.43:911][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.37.44:675][681]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.37.44:713][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.12.14-07.37.45:340][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.37.45:349][707]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearA0D2168145D5F6B85D8A8387EDA79FE0.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.37.45:365][707]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.37.45:365][707]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.38.02:010][471]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.38.02:060][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.12.14-07.38.02:590][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.38.02:599][497]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear18A3B5C5427EFB45819235A1C8C01583.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.38.02:616][497]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.38.02:617][497]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.38.04:633][587]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.14-07.38.04:643][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-07.38.04:645][587]PIE: New page: PIE session: Level01 (14 dec. 2022 09:38:04)
+[2022.12.14-07.38.04:648][587]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.14-07.38.04:651][587]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.14-07.38.04:651][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.38.04:674][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023234s)
+[2022.12.14-07.38.04:676][587]LogAIModule: Creating AISystem for world Level01
+[2022.12.14-07.38.04:676][587]LogPlayLevel: PIE: World Init took: (0.001777s)
+[2022.12.14-07.38.04:676][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.025226s)
+[2022.12.14-07.38.04:701][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.12.14-07.38.04:702][587]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.14-07.38.04:702][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-07.38.04:703][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-07.38.04:703][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-07.38.04:703][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-07.38.04:703][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-07.38.04:703][587]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-07.38.04:708][587]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-07.38.04:709][587]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-07.38.04:846][587]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.14-07.38.04:846][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-07.38.04:846][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-07.38.04:846][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-07.38.04:847][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.14-07.38.04:847][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.14-07.38.04:847][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.14-07.38.04:849][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.14-07.38.04:849][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.14-07.38.04:849][587]LogInit: FAudioDevice initialized.
+[2022.12.14-07.38.04:849][587]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level01'.
+[2022.12.14-07.38.04:870][587]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.12.14-07.38.04:878][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2022.12.14-08.38.04
+[2022.12.14-07.38.04:884][587]LogWorld: Bringing up level for play took: 0.012327
+[2022.12.14-07.38.04:885][587]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.12.14-07.38.04:891][587]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.12.14-07.38.04:899][587]PIE: Server logged in
+[2022.12.14-07.38.04:900][587]PIE: Play in editor total start time 0,259 seconds.
+[2022.12.14-07.38.05:375][590]LogSlate: Window 'BP_Spear' being destroyed
+[2022.12.14-07.38.05:384][590]LogSlate: Window 'BP_Spear' being destroyed
+[2022.12.14-07.38.05:389][590]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.38.05:390][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.38.12:884][216]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=46.00 Z=0.00 Location: X=-558.34 Y=113.94 Z=132.15 Normal: X=0.88 Y=-0.47 Z=0.00 PenetrationDepth:26.299 Actor:BP_Spear_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.14-07.38.24:933][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.38.24:933][200]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.38.24:934][200]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.38.24:936][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.38.24:950][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-07.38.24:963][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.38.25:010][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-07.38.25:011][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.38.25:012][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.38.25:017][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.38.25:067][200]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.12.14-07.38.25:094][201]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.12.14-07.38.28:972][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.38.38:454][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.38.38:506][875]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillagerC63F7CFD415C6A14C2D8C5B912947ADB.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.38.38:527][875]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.38.38:527][875]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.38.38:853][891]BlueprintLog: New page: Compile BP_ArmedVillager
+[2022.12.14-07.38.38:973][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.12.14-07.38.39:405][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.38.39:453][907]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillagerBE97E6314B45CB54BCFE6C907D4E9783.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.38.39:473][907]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.38.39:473][907]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.38.40:266][954]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.14-07.38.40:278][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-07.38.40:278][954]PIE: New page: PIE session: Level01 (14 dec. 2022 09:38:40)
+[2022.12.14-07.38.40:278][954]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.38.40:303][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024162s)
+[2022.12.14-07.38.40:304][954]LogAIModule: Creating AISystem for world Level01
+[2022.12.14-07.38.40:304][954]LogPlayLevel: PIE: World Init took: (0.001725s)
+[2022.12.14-07.38.40:304][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.026093s)
+[2022.12.14-07.38.40:323][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.14-07.38.40:325][954]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-07.38.40:325][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-07.38.40:325][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-07.38.40:325][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-07.38.40:325][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-07.38.40:325][954]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-07.38.40:330][954]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-07.38.40:330][954]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-07.38.40:451][954]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.14-07.38.40:451][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-07.38.40:451][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-07.38.40:451][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-07.38.40:452][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.14-07.38.40:452][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.14-07.38.40:452][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.14-07.38.40:453][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.14-07.38.40:453][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.14-07.38.40:453][954]LogInit: FAudioDevice initialized.
+[2022.12.14-07.38.40:453][954]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level01'.
+[2022.12.14-07.38.40:473][954]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.12.14-07.38.40:479][954]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2022.12.14-08.38.40
+[2022.12.14-07.38.40:481][954]LogWorld: Bringing up level for play took: 0.006542
+[2022.12.14-07.38.40:481][954]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.12.14-07.38.40:490][954]PIE: Server logged in
+[2022.12.14-07.38.40:491][954]PIE: Play in editor total start time 0,216 seconds.
+[2022.12.14-07.38.41:113][996]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.38.41:120][996]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.38.41:125][996]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.38.41:125][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.38.47:497][504]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=127.02 Y=-201.41 Z=0.00 Location: X=-1133.40 Y=163.00 Z=132.15 Normal: X=0.89 Y=0.46 Z=0.00 PenetrationDepth:14.157 Actor:BP_Spear_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.14-07.38.50:422][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.38.50:422][727]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.38.50:422][727]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.38.50:423][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.38.50:435][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-07.38.50:443][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.38.50:458][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-07.38.50:458][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.38.50:460][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.38.50:463][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.38.50:469][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.12.14-07.38.50:495][729]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.14-07.38.53:787][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.39.05:899][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.39.05:942][541]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillagerF832C21B403762C172401995600BD6F7.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.39.05:961][541]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.39.05:961][541]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.39.06:384][563]BlueprintLog: New page: Compile BP_ArmedVillager
+[2022.12.14-07.39.06:473][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.12.14-07.39.07:137][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.39.07:187][592]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillagerDD4593B0444C9C201DCDAB848F5BC67E.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.39.07:203][592]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.39.07:203][592]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.39.08:192][643]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.14-07.39.08:202][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-07.39.08:203][643]PIE: New page: PIE session: Level01 (14 dec. 2022 09:39:08)
+[2022.12.14-07.39.08:203][643]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.39.08:226][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023273s)
+[2022.12.14-07.39.08:228][643]LogAIModule: Creating AISystem for world Level01
+[2022.12.14-07.39.08:228][643]LogPlayLevel: PIE: World Init took: (0.001932s)
+[2022.12.14-07.39.08:228][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.025425s)
+[2022.12.14-07.39.08:253][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.12.14-07.39.08:254][643]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-07.39.08:254][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-07.39.08:254][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-07.39.08:255][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-07.39.08:255][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-07.39.08:255][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-07.39.08:255][643]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-07.39.08:259][643]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-07.39.08:259][643]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-07.39.08:381][643]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.14-07.39.08:381][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-07.39.08:381][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-07.39.08:381][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-07.39.08:381][643]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.14-07.39.08:382][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.14-07.39.08:382][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.14-07.39.08:383][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.14-07.39.08:383][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.14-07.39.08:383][643]LogInit: FAudioDevice initialized.
+[2022.12.14-07.39.08:383][643]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level01'.
+[2022.12.14-07.39.08:401][643]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.12.14-07.39.08:406][643]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2022.12.14-08.39.08
+[2022.12.14-07.39.08:408][643]LogWorld: Bringing up level for play took: 0.006695
+[2022.12.14-07.39.08:410][643]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.12.14-07.39.08:418][643]PIE: Server logged in
+[2022.12.14-07.39.08:419][643]PIE: Play in editor total start time 0,218 seconds.
+[2022.12.14-07.39.08:769][663]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.39.08:777][663]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.39.08:783][663]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.39.08:783][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.39.18:161][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.39.18:161][502]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.39.18:161][502]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.39.18:162][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.39.18:171][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-07.39.18:179][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.39.18:197][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-07.39.18:198][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.39.18:200][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.39.18:204][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.39.18:211][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.14-07.39.18:233][503]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.14-07.39.19:988][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.39.48:328][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.39.48:340][195]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear10969A2F48B958C9B44B85A0A19D07BE.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.39.48:362][195]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.39.48:362][195]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.39.52:251][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.39.52:263][426]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearAD56F6C446D8C7E210E57CB7513045DA.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.39.52:282][426]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.39.52:282][426]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.39.53:849][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.39.53:855][522]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear952D06F34D5AB0341FDDFBA3C7426D04.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.39.53:872][522]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.39.53:872][522]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.39.58:528][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.39.58:538][786]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear634F089649EDF9FF7CECADBD59F56123.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.39.58:559][786]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.39.58:559][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.39.59:703][851]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.39.59:756][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.14-07.40.00:213][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.40.00:221][875]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear94A54CA0400692BB97B732990ABEAB03.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.40.00:240][875]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.40.00:240][875]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.40.06:760][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.40.06:764][320]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearC0B176D947A6C5CAB62C829B5882686D.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.40.06:781][320]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.40.06:781][320]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.40.18:070][ 89]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.14-07.40.22:615][408]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.40.22:654][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.12.14-07.40.23:062][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.40.23:070][433]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearC5FABE4047E5A43C8F9B56A914467DD2.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.40.23:080][433]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.40.23:080][433]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.40.24:979][571]LogSlate: Window 'BP_Spear' being destroyed
+[2022.12.14-07.40.24:998][571]LogSlate: Window 'BP_Spear' being destroyed
+[2022.12.14-07.40.25:006][571]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.40.25:006][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.40.26:404][651]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.40.39:795][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.40.39:837][368]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillager451BC3A542274386F80A9F9FFEB95C2B.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.40.39:853][368]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.40.39:853][368]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.40.40:275][390]BlueprintLog: New page: Compile BP_ArmedVillager
+[2022.12.14-07.40.40:355][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.14-07.40.40:758][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.40.40:797][411]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillager43A9537541946A355259CD8140877960.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.40.40:812][411]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.40.40:812][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.40.41:357][446]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.14-07.40.41:367][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-07.40.41:367][446]PIE: New page: PIE session: Level01 (14 dec. 2022 09:40:41)
+[2022.12.14-07.40.41:367][446]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.40.41:387][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020367s)
+[2022.12.14-07.40.41:388][446]LogAIModule: Creating AISystem for world Level01
+[2022.12.14-07.40.41:388][446]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2022.12.14-07.40.41:388][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.021476s)
+[2022.12.14-07.40.41:408][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.12.14-07.40.41:409][446]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-07.40.41:409][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-07.40.41:409][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-07.40.41:409][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-07.40.41:409][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-07.40.41:409][446]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-07.40.41:414][446]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-07.40.41:414][446]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-07.40.41:544][446]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.14-07.40.41:544][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-07.40.41:544][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-07.40.41:544][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-07.40.41:545][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.14-07.40.41:545][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.14-07.40.41:545][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.14-07.40.41:546][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.14-07.40.41:546][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.14-07.40.41:546][446]LogInit: FAudioDevice initialized.
+[2022.12.14-07.40.41:546][446]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level01'.
+[2022.12.14-07.40.41:562][446]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.12.14-07.40.41:570][446]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2022.12.14-08.40.41
+[2022.12.14-07.40.41:572][446]LogWorld: Bringing up level for play took: 0.009508
+[2022.12.14-07.40.41:574][446]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.12.14-07.40.41:582][446]PIE: Server logged in
+[2022.12.14-07.40.41:583][446]PIE: Play in editor total start time 0,218 seconds.
+[2022.12.14-07.40.42:005][477]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.40.42:013][477]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.40.42:027][477]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.40.42:027][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.41.16:480][740]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=80.91 Y=-2.51 Z=0.00 Location: X=-875.03 Y=109.06 Z=132.16 Normal: X=-1.00 Y=0.06 Z=0.00 PenetrationDepth:3.146 Actor:BP_Spear_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.14-07.41.18:020][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.41.18:020][867]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.41.18:020][867]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.41.18:022][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.41.18:032][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-07.41.18:037][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.41.18:052][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-07.41.18:053][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.41.18:054][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.41.18:057][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.41.18:063][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.14-07.41.18:081][868]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.12.14-07.41.20:229][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Villager.BP_Villager
+[2022.12.14-07.41.36:882][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Villager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Villager.uasset" SILENT=true
+[2022.12.14-07.41.36:931][101]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_VillagerE49E343E43F9B85F322458AE03A657B0.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Villager.uasset'
+[2022.12.14-07.41.36:948][101]AssetCheck: New page: Asset Save: BP_Villager
+[2022.12.14-07.41.36:948][101]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Villager.BP_Villager
+[2022.12.14-07.41.37:294][122]BlueprintLog: New page: Compile BP_Villager
+[2022.12.14-07.41.37:390][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.14-07.41.37:882][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Villager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Villager.uasset" SILENT=true
+[2022.12.14-07.41.37:937][147]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_VillagerD603EFA14C40F6521F94C49E2830A5D8.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Villager.uasset'
+[2022.12.14-07.41.37:951][147]AssetCheck: New page: Asset Save: BP_Villager
+[2022.12.14-07.41.37:951][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Villager.BP_Villager
+[2022.12.14-07.41.38:826][200]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.14-07.41.38:837][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-07.41.38:837][200]PIE: New page: PIE session: Level01 (14 dec. 2022 09:41:38)
+[2022.12.14-07.41.38:837][200]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.41.38:859][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021836s)
+[2022.12.14-07.41.38:860][200]LogAIModule: Creating AISystem for world Level01
+[2022.12.14-07.41.38:860][200]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2022.12.14-07.41.38:860][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.023182s)
+[2022.12.14-07.41.38:882][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.14-07.41.38:882][200]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-07.41.38:883][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-07.41.38:883][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.14-07.41.38:883][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.14-07.41.38:883][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.14-07.41.38:883][200]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-07.41.38:888][200]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-07.41.38:888][200]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-07.41.39:007][200]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.14-07.41.39:007][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.14-07.41.39:007][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.14-07.41.39:007][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.14-07.41.39:007][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.14-07.41.39:007][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.14-07.41.39:007][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.14-07.41.39:009][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.14-07.41.39:009][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.14-07.41.39:009][200]LogInit: FAudioDevice initialized.
+[2022.12.14-07.41.39:009][200]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level01'.
+[2022.12.14-07.41.39:028][200]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.12.14-07.41.39:033][200]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2022.12.14-08.41.39
+[2022.12.14-07.41.39:035][200]LogWorld: Bringing up level for play took: 0.005799
+[2022.12.14-07.41.39:036][200]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.12.14-07.41.39:043][200]PIE: Server logged in
+[2022.12.14-07.41.39:044][200]PIE: Play in editor total start time 0,21 seconds.
+[2022.12.14-07.41.39:455][224]LogSlate: Window 'BP_Villager' being destroyed
+[2022.12.14-07.41.39:465][224]LogSlate: Window 'BP_Villager' being destroyed
+[2022.12.14-07.41.39:472][224]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.41.39:472][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.41.44:794][709]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-134.45 Y=-28.03 Z=0.00 Location: X=-561.34 Y=813.09 Z=132.16 Normal: X=0.46 Y=-0.89 Z=0.00 PenetrationDepth:5.339 Actor:BP_Spear_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.14-07.42.23:851][269]LogCharacterMovement: BP_ArmedVillager3 is stuck and failed to move! Velocity: X=-117.93 Y=235.04 Z=0.00 Location: X=-684.60 Y=-149.21 Z=115.29 Normal: X=0.20 Y=-0.98 Z=0.00 PenetrationDepth:0.393 Actor:BP_Spear_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.14-07.42.23:942][278]LogCharacterMovement: BP_ArmedVillager2 is stuck and failed to move! Velocity: X=63.02 Y=38.15 Z=0.00 Location: X=-734.76 Y=-209.80 Z=132.15 Normal: X=0.38 Y=-0.92 Z=-0.00 PenetrationDepth:8.996 Actor:BP_Spear_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2022.12.14-07.42.31:862][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.42.31:862][983]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2022.12.14-07.42.31:862][983]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.42.31:864][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.42.31:873][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-07.42.31:878][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.42.31:892][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.14-07.42.31:892][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.42.31:894][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.14-07.42.31:897][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-07.42.31:901][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.14-07.42.31:934][986]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.12.14-07.42.34:866][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true
+[2022.12.14-07.42.34:900][218]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_ArmedVillagerE60761FD497C2D2762B987848651FB37.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset'
+[2022.12.14-07.42.34:911][218]AssetCheck: New page: Asset Save: BP_ArmedVillager
+[2022.12.14-07.42.34:911][218]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.42.35:656][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_ArmedVillager.BP_ArmedVillager
+[2022.12.14-07.42.51:075][154]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.42.51:083][154]LogSlate: Window 'BP_ArmedVillager' being destroyed
+[2022.12.14-07.42.51:119][154]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.42.51:119][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.42.53:177][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.42.59:978][759]LogSlate: Took 0.000921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.14-07.43.06:910][260]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.43.06:955][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.12.14-07.43.07:422][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.43.07:430][284]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_SpearBC710ABB4DAE002B26B1D0915C60AD80.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.43.07:446][284]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.43.07:447][284]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.43.12:227][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.43.12:236][617]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear7A2B4A304AD567D067E3B7BDAC82C2BC.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.43.12:250][617]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.43.12:250][617]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.43.13:043][675]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.43.13:078][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.14-07.43.33:412][108]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.43.33:446][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.14-07.43.34:269][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.43.34:276][169]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear7D2E0EE14DB216FB606F80AC00BEAA9F.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.43.34:290][169]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.43.34:290][169]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.43.39:173][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.43.39:181][506]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear40F20E8B496C1A95E4360383321135CC.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.43.39:194][506]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.43.39:195][506]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.43.40:261][567]BlueprintLog: New page: Compile BP_Spear
+[2022.12.14-07.43.40:306][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.12.14-07.43.41:155][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset" SILENT=true
+[2022.12.14-07.43.41:165][611]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Spear4242C8D74FE71A9BF8DD86A90924F60A.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Spear.uasset'
+[2022.12.14-07.43.41:180][611]AssetCheck: New page: Asset Save: BP_Spear
+[2022.12.14-07.43.41:180][611]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Spear.BP_Spear
+[2022.12.14-07.43.53:500][524]LogSlate: Window 'BP_Spear' being destroyed
+[2022.12.14-07.43.53:511][524]LogSlate: Window 'BP_Spear' being destroyed
+[2022.12.14-07.43.53:516][524]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.43.53:516][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.45.06:626][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.12.14-07.45.16:671][794]LogContentBrowser: Attempting asset rename: BP_Spear_2 -> BP_BaseWeapon
+[2022.12.14-07.45.16:687][794]LogMetaData: Removing '/Game/Blueprints/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/Blueprints/BP_Spear_2.PackageMetaData'
+[2022.12.14-07.45.16:687][794]LogMetaData: Removing '/Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/Blueprints/BP_Spear_2.PackageMetaData'
+[2022.12.14-07.45.16:687][794]LogMetaData: Removing '/Game/Blueprints/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Spear_2.PackageMetaData'
+[2022.12.14-07.45.16:687][794]LogMetaData: Removing '/Game/Blueprints/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Spear_2.PackageMetaData'
+[2022.12.14-07.45.16:687][794]LogMetaData: Removing '/Game/Blueprints/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Spear_2.PackageMetaData'
+[2022.12.14-07.45.16:687][794]LogMetaData: Removing '/Game/Blueprints/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Spear_2.PackageMetaData'
+[2022.12.14-07.45.16:720][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.45.16:727][794]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeaponE9FE474E4DD2DA0CF41B0E9143EA9F5E.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.45.16:777][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.14-07.45.16:799][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.14-07.45.16:812][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.14-07.45.16:849][794]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.45.16:849][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.45.17:709][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.45.17:713][892]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeapon87D3B36C45A64D2DEA058688103EF8A1.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.45.17:722][892]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.45.17:722][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.45.20:354][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.45.39:680][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.45.39:684][442]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeaponE20E909840E8F6A1A26F018D5C307C69.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.45.39:697][442]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.45.39:697][442]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.45.41:606][597]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.12.14-07.45.41:665][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.12.14-07.45.42:929][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.45.42:934][696]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeapon83E5756D43E98D41EF6831A06455EB86.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.45.42:945][696]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.45.42:945][696]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.45.54:239][605]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.12.14-07.45.54:283][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.12.14-07.45.54:764][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.45.54:768][638]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeapon9EC430D84A00379A288E59B606756BA1.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.45.54:782][638]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.45.54:782][638]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.45.57:569][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.45.57:574][858]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeapon2B72E4CB4756C041D36CEAB896CB44F2.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.45.57:586][858]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.45.57:586][858]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.00:365][ 88]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.12.14-07.46.00:381][ 88]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.12.14-07.46.00:387][ 88]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.46.00:387][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.46.01:798][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.46.01:802][221]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeaponA98796114D6A781A8A8D7E97A402E9E4.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.46.01:815][221]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.46.01:815][221]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.03:687][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.46.03:691][369]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeapon0448A9904D73B0CCAC0F56B5D7AF5AE9.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.46.03:701][369]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.46.03:701][369]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.06:943][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.09:910][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.46.09:914][822]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeaponE38E698A464186D5F2E4289866E3222B.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.46.09:927][822]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.46.09:927][822]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.11:389][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.46.11:393][939]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeapon995360A84C09FEEC170DA0B1F0477A2F.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.46.11:407][939]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.46.11:407][939]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.11:833][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseWeapon" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset" SILENT=true
+[2022.12.14-07.46.11:837][970]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseWeaponCE8F63724D17814D3D82B8B9F210B255.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseWeapon.uasset'
+[2022.12.14-07.46.11:851][970]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.12.14-07.46.11:852][970]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseWeapon.BP_BaseWeapon
+[2022.12.14-07.46.12:296][  7]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.12.14-07.46.12:357][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.12.14-07.46.13:825][126]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.12.14-07.46.13:841][126]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.12.14-07.46.13:845][126]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.46.13:845][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.46.18:403][501]LogContentBrowser: Deferred new asset file creation: BP_BaseWeapon_Child
+[2022.12.14-07.46.18:420][501]LogContentBrowser: Creating deferred item: BP_BaseWeapon_Child
+[2022.12.14-07.46.26:435][165]LogContentBrowser: Attempting asset rename: BP_BaseWeapon_Child -> BP_BaseWeapon_Child
+[2022.12.14-07.46.26:449][165]LogContentBrowser: End creating deferred item BP_BaseWeapon_Child
+[2022.12.14-07.46.34:115][770]LogContentBrowser: Attempting asset rename: BP_BaseWeapon_Child -> BP_BaseSpear
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.SKEL_BP_BaseSpear_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.SKEL_BP_BaseSpear_C' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear_C' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:136][770]LogMetaData: Removing '/Game/Blueprints/BP_BaseSpear.BP_BaseSpear:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/BP_BaseWeapon_Child.PackageMetaData'
+[2022.12.14-07.46.34:150][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.46.34:155][770]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpear12C8E31147FBE603C5B3D7B53E58F900.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.46.34:230][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.14-07.46.34:254][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.12.14-07.46.34:268][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.12.14-07.46.34:307][770]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.46.34:307][770]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.46.35:102][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.46.35:106][830]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpear607F8CFA41DCD010711CAEB49F53F257.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.46.35:115][830]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.46.35:115][830]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.46.35:866][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.46.49:340][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.46.49:352][881]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpear01BD472A4BDBD6B046B58697E2A27862.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.46.49:365][881]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.46.49:365][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.46.55:423][354]BlueprintLog: New page: Compile BP_BaseSpear
+[2022.12.14-07.46.55:456][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.14-07.46.55:935][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.46.55:943][387]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpear9A9E4178405225ED2DE849A17E9DAF62.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.46.55:955][387]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.46.55:955][387]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.47.03:532][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.47.03:538][  4]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpearDB98E8F1406285383F648BBD1868ABEB.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.47.03:550][  4]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.47.03:550][  4]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.47.04:837][115]BlueprintLog: New page: Compile BP_BaseSpear
+[2022.12.14-07.47.04:873][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.14-07.47.05:541][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.47.05:550][168]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpearD3F79DF143DFFFA07E5F42BA446976DB.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.47.05:561][168]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.47.05:561][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.47.09:823][528]LogSlate: Window 'BP_BaseSpear' being destroyed
+[2022.12.14-07.47.09:837][528]LogSlate: Window 'BP_BaseSpear' being destroyed
+[2022.12.14-07.47.09:842][528]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-07.47.09:842][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-07.47.11:255][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BaseSpear" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset" SILENT=true
+[2022.12.14-07.47.11:259][656]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_BaseSpearE8157A4A483B0172AC994686461C47D7.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_BaseSpear.uasset'
+[2022.12.14-07.47.11:269][656]AssetCheck: New page: Asset Save: BP_BaseSpear
+[2022.12.14-07.47.11:269][656]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseSpear.BP_BaseSpear
+[2022.12.14-07.47.14:383][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.14-07.47.28:598][900]LogSlate: Window 'Replace References?' being destroyed
+[2022.12.14-07.47.28:601][900]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with BP_BaseSpear; and then delete them.
+
+Are you sure?
+[2022.12.14-07.47.28:601][900]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.14-07.47.29:280][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.14-07.47.29:372][900]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.12.14-07.47.29:623][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.12.14-07.47.31:843][900]LogSlate: Window 'Save Content' being destroyed
+[2022.12.14-07.47.31:858][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ArmedVillager" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_ArmedVillager.uasset" SILENT=true

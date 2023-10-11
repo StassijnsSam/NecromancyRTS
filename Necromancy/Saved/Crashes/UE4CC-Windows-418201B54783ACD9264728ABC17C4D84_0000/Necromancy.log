@@ -1,0 +1,1533 @@
+﻿Log file open, 12/17/22 17:30:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Necromancy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211128
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername="N PhoeNix" -epicuserid=8e0b38fb204e4803b179331993acc11a -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:696][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.17-16.30.36:696][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.17-16.30.36:697][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.17-16.30.36:697][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.17-16.30.36:697][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.17-16.30.36:697][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.17-16.30.36:697][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.17-16.30.36:697][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:697][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.17-16.30.36:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.17-16.30.36:703][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.17-16.30.36:703][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.17-16.30.36:703][  0]LogHAL: Display: Platform has ~ 16 GB [16799985664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.17-16.30.36:703][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.17-16.30.36:703][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.17-16.30.36:704][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Engine.ini]
+[2022.12.17-16.30.36:704][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stass/Documents/UE4/Necromancy/Saved/Config/Windows/Editor.ini]
+[2022.12.17-16.30.36:704][  0]LogInit: Computer: SAMPLE
+[2022.12.17-16.30.36:704][  0]LogInit: User: stass
+[2022.12.17-16.30.36:704][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.17-16.30.36:704][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.17-16.30.36:704][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2022.12.17-16.30.36:704][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.17-16.30.36:704][  0]LogMemory: Process Physical Memory: 147.10 MB used, 147.10 MB peak
+[2022.12.17-16.30.36:704][  0]LogMemory: Process Virtual Memory: 133.66 MB used, 133.66 MB peak
+[2022.12.17-16.30.36:704][  0]LogMemory: Physical Memory: 10090.29 MB used,  5931.43 MB free, 16021.71 MB total
+[2022.12.17-16.30.36:704][  0]LogMemory: Virtual Memory: 134187224.00 MB used,  30501.57 MB free, 134217728.00 MB total
+[2022.12.17-16.30.36:711][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.17-16.30.36:773][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.17-16.30.36:774][  0]LogInit: Using OS detected language (nl-NL).
+[2022.12.17-16.30.36:774][  0]LogInit: Using OS detected locale (nl-BE).
+[2022.12.17-16.30.36:776][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2022.12.17-16.30.36:941][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.17-16.30.36:950][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.17-16.30.36:962][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.17-16.30.36:962][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.17-16.30.37:065][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.17-16.30.37:095][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.17-16.30.37:095][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.17-16.30.37:095][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.17-16.30.37:095][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.17-16.30.37:179][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_0)
+[2022.12.17-16.30.37:179][  0]LogD3D11RHI:       8044/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.17-16.30.37:209][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.12.17-16.30.37:209][  0]LogD3D11RHI:       128/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:       0/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     DeviceId    : 249d
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     SubSysId    : 88f4103c
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     SharedSystemMemory : 8399992832 bytes
+[2022.12.17-16.30.37:211][  0]LogD3D11RHI:     AdapterLuid : 0 70658
+[2022.12.17-16.30.37:218][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.17-16.30.37:218][  0]LogD3D11RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2022.12.17-16.30.37:218][  0]LogWindows: EnumDisplayDevices:
+[2022.12.17-16.30.37:218][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.12.17-16.30.37:218][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.17-16.30.37:218][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.17-16.30.37:218][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.17-16.30.37:218][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.17-16.30.37:219][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.17-16.30.37:219][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.17-16.30.37:219][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2022.12.17-16.30.37:219][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:      Driver Date: 5-5-2022
+[2022.12.17-16.30.37:219][  0]LogRHI: Texture pool is 5630 MB (70% of 8044 MB)
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     DeviceId    : 249d
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     SubSysId    : 88f4103c
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     SharedSystemMemory : 8399992832 bytes
+[2022.12.17-16.30.37:219][  0]LogD3D11RHI:     AdapterLuid : 0 70658
+[2022.12.17-16.30.37:262][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.17-16.30.37:262][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.17-16.30.37:262][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.17-16.30.37:274][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.17-16.30.37:297][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.17-16.30.37:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.17-16.30.37:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.17-16.30.37:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.17-16.30.37:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.17-16.30.37:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.17-16.30.37:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.17-16.30.37:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.17-16.30.37:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.17-16.30.37:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.17-16.30.37:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.17-16.30.37:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.17-16.30.37:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.17-16.30.37:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.17-16.30.37:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.17-16.30.37:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.17-16.30.37:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.17-16.30.37:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.17-16.30.37:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.17-16.30.37:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.17-16.30.37:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.17-16.30.37:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.17-16.30.37:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.17-16.30.37:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.17-16.30.37:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.17-16.30.37:705][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.17-16.30.37:742][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.17-16.30.37:783][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.17-16.30.37:784][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/stass/Documents/UE4/Necromancy/Intermediate/Shaders/WorkingDirectory/22352/).
+[2022.12.17-16.30.37:784][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stass/AppData/Local/Temp/UnrealShaderWorkingDir/8752EA9A4BF829AA21A6CA836292866B/'.
+[2022.12.17-16.30.37:784][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.17-16.30.37:784][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.17-16.30.37:784][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.17-16.30.38:399][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.17-16.30.38:447][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.17-16.30.38:447][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.17-16.30.38:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/stass/Documents/UE4/Necromancy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.17-16.30.38:447][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.17-16.30.38:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/stass/Documents/UE4/Necromancy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.17-16.30.38:447][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.17-16.30.38:461][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.17-16.30.38:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.17-16.30.38:461][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.17-16.30.38:475][  0]LogDerivedDataCache: Speed tests for C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.17-16.30.38:475][  0]LogDerivedDataCache: Display: Performance to C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1117.68MBs, RandomWriteSpeed=76.86MBs. Assigned SpeedClass 'Local'
+[2022.12.17-16.30.38:475][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.17-16.30.38:475][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.17-16.30.38:475][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.17-16.30.38:511][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.17-16.30.38:511][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.17-16.30.38:532][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.12.17-16.30.38:715][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.17-16.30.38:715][  0]LogInit: Active device profile: [000001DDEEB8C900][000001DDE3877B00 49] Windows
+[2022.12.17-16.30.38:715][  0]LogInit: Profiles: [000001DDEEB8C900][000001DDE3877B00 49] Windows, [000001DDEEB1B800][000001DDEE8C2100 49] WindowsNoEditor, [000001DDEEB8F500][000001DDEE964280 49] WindowsServer, [000001DDEEB18E00][000001DDEEA18400 49] WindowsClient, [000001DDEEB8F800][000001DDE387A540 49] IOS, [000001DDEEB1A800][000001DDE6A6A680 49] iPadAir, [000001DDEEB8E000][000001DDE6A7A7C0 49] iPadAir2, [000001DDEF818A00][000001DDEC19CA40 49] IPadPro, [000001DDEF818B00][000001DDEC190A80 49] iPadAir3, [000001DDEEB19900][000001DDEC1A0C00 49] iPadAir4, [000001DDEF81B400][000001DDEE6FCD80 49] iPadMini2, [000001DDEEB1AA00][000001DDEE700F00 49] iPadMini3, [000001DDEF819700][000001DDEE70D080 49] iPadMini4, [000001DDEEB8D100][000001DDEE751200 49] iPadMini5, [000001DDEF830300][000001DDEE7634C0 49] iPhone6, [000001DDEF830400][000001DDEE75F500 49] iPodTouch6, [000001DDEF80BF00][000001DDE6AE97C0 49] iPhone7, [000001DDEF80BE00][000001DDE6AE5800 49] iPodTouch7, [000001DDEEB1A000][000001DDE6AED980 49] iPhone5S, [000001DDEF809A00][000001DDE6AF1B00 49] iPhone6Plus, [000001DDEF830200][000001DDE6AF4100 49] iPhone6S, [000001DDEF808600][000001DDEE95C280 49] iPhone6SPlus, [000001DDEF832900][000001DDEE960400 49] iPhone7Plus, [000001DDEF80B100][000001DDE6AF8580 49] iPhoneSE, [000001DDEF832200][000001DDE6AFC700 49] iPhone8, [000001DDEF80BB00][000001DDEC198840 49] iPhone8Plus, [000001DDEF830A00][000001DDE6B04980 49] iPhoneX, [000001DDEF809400][000001DDEE990AC0 49] iPhoneXS, [000001DDEF833900][000001DDEE9AAC40 49] iPhoneXSMax, [000001DDEF808900][000001DDEEA06DC0 49] iPhoneXR, [000001DDEF832F00][000001DDEEA12F40 49] iPhone11, [000001DDEF809300][000001DDE37FD0C0 49] iPhone11Pro, [000001DDEF831000][000001DDE3819240 49] iPhone11ProMax, [000001DDEF80AA00][000001DDE383B3C0 49] iPhoneSE2, [000001DDEF831400][000001DDE3849540 49] iPhone12Mini, [000001DDEF80A400][000001DDE384D6C0 49] iPhone12, [000001DDEF830D00][000001DDE3851840 49] iPhone12Pro, [000001DDEF80AB00][000001DDE38559C0 49] iPhone12ProMax, [000001DDEF833000][000001DDE3859B40 49] iPadPro105, [000001DDEF808700][000001DDE385C140 49] iPadPro129, [000001DDEF832800][000001DDE38602C0 49] iPadPro97, [000001DDEF80A600][000001DDE3864440 49] iPadPro2_129, [000001DDEF833C00][000001DDE38685C0 49] iPad5, [000001DDEF80A200][000001DDE386C740 49] iPad6, [000001DDEF830F00][000001DDEFD868C0 49] iPad7, [000001DDEF80AD00][000001DDEE9A6A00 49] iPad8, [000001DDEF831100][000001DDEFD96B40 49] iPadPro11, [000001DDEF809600][000001DDEFD9AC80 49] iPadPro2_11, [000001DDEF833400][000001DDF0226DC0 49] iPadPro3_129, [000001DDEF80A800][000001DDF022EF40 49] iPadPro4_129, [000001DDEF833A00][000001DDF02330C0 49] AppleTV, [000001DDEF80A100][000001DDF023B240 49] AppleTV4K, [000001DDEF831F00][000001DDF02CD3C0 49] TVOS, [000001DDEF80B400][000001DDE3DA7540 49] Mac, [000001DDEF833800][000001DDE3DAB6C0 49] MacClient, [000001DDEF809E00][000001DDE3DAF840 49] MacNoEditor, [000001DDEF833F00][000001DDE3DB39C0 49] MacServer, [000001DDEF80B500][000001DDE3DB7B40 49] Linux, [000001DDEF830C00][000001DDE3DBA140 49] LinuxAArch64, [000001DDEF80AF00][000001DDF02362C0 49] LinuxNoEditor, [000001DDEF830B00][000001DDEE938440 49] LinuxAArch64NoEditor, [000001DDEF80B700][000001DDEE93C5C0 49] LinuxClient, [000001DDEF831A00][000001DDEE940740 49] LinuxAArch64Client, [000001DDEF809000][000001DDEE9448C0 49] LinuxServer, [000001DDEF832500][000001DDEE948A40 49] LinuxAArch64Server, [000001DDEF809900][000001DDF022AB80 49] Android, [000001DDEF831300][000001DDEE94CCC0 49] Android_Low, [000001DDEF80A700][000001DDE3804E00 49] Android_Mid, [000001DDEF832B00][000001DDE3800F40 49] Android_High, [000001DDEF80B800][000001DDEEA0B0C0 49] Android_Default, [000001DDEF831600][000001DDEE995240 49] Android_Adreno4xx, [000001DDEF809500][000001DDEE98D3C0 49] Android_Adreno5xx_Low, [000001DDEF81B600][000001DDEFE2D540 49] Android_Adreno5xx, [000001DDEEB19800][000001DDEFE296C0 49] Android_Adreno6xx, [000001DDEF819200][000001DDEFE19840 49] Android_Adreno6xx_Vulkan, [000001DDEEB1BC00][000001DDEFE159C0 49] Android_Mali_T6xx, [000001DDEF819100][000001DDEFE11B40 49] Android_Mali_T7xx, [000001DDEEB19600][000001DDEFE0C140 49] Android_Mali_T8xx, [000001DDEF819E00][000001DDE6B002C0 49] Android_Mali_G71, [000001DDEEB18500][000001DDEE704440 49] Android_Mali_G72, [000001DDEF818800][000001DDEE7085C0 49] Android_Mali_G72_Vulkan, [000001DDEEB19300][000001DDEE950740 49] Android_Mali_G76, [000001DDEF818100][000001DDEE9548C0 49] Android_Mali_G76_Vulkan, [000001DDEEB19F00][000001DDEE958A40 49] Android_Mali_G77, [000001DDEF819000][000001DDEE718BC0 49] Android_Mali_G77_Vulkan, [000001DDEEB18A00][000001DDEE71CD40 49] Android_Mali_G78, [000001DDEF81AC00][000001DDEEA0EE80 49] Android_Mali_G78_Vulkan, [000001DDEEB1B600][000001DDEE720FC0 49] Android_Mali_G710, [000001DDEF81AA00][000001DDEE725100 49] Android_Mali_G710_Vulkan, [000001DDEEB1BF00][000001DDEE72D280 49] Android_Vulkan_SM5, [000001DDEF81BB00][000001DDEE731400 49] Android_PowerVR_G6xxx, [000001DDEEB1BB00][000001DDEE735580 49] Android_PowerVR_GT7xxx, [000001DDEF81B900][000001DDEE739700 49] Android_PowerVR_GE8xxx, [000001DDEEB18C00][000001DDEE73D880 49] Android_PowerVR_GM9xxx, [000001DDEF81A700][000001DDEC15FA00 49] Android_PowerVR_GM9xxx_Vulkan, [000001DDEEB1A700][000001DDEC163B80 49] Android_TegraK1, [000001DDEF818900][000001DDEC166180 49] Android_Unknown_Vulkan, [000001DDEEB19D00][000001DDEC16A300 49] Lumin, [000001DDEF818500][000001DDEC16E480 49] Lumin_Desktop, [000001DDEEB1B300][000001DDEC172600 49] HoloLens, 
+[2022.12.17-16.30.38:835][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.17-16.30.38:835][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.17-16.30.38:835][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.17-16.30.38:835][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.17-16.30.38:835][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.17-16.30.38:848][  0]LogNetVersion: Necromancy 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3922813145)
+[2022.12.17-16.30.39:146][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.17-16.30.39:188][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.17-16.30.39:192][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.17-16.30.39:192][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.17-16.30.39:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.17-16.30.39:474][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0EEF74564BF9C531AADF71946131E681 | Instance: BB62C4114794468B7A351F90277F6FE5 (SAMPLE-22352).
+[2022.12.17-16.30.39:585][  0]LogPython: Using Python 3.7.7
+[2022.12.17-16.30.39:990][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.17-16.30.39:990][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.39:990][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.39:990][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.39:997][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.17-16.30.40:178][  0]SourceControl: Source control is disabled
+[2022.12.17-16.30.40:178][  0]SourceControl: Source control is disabled
+[2022.12.17-16.30.40:182][  0]SourceControl: Source control is disabled
+[2022.12.17-16.30.40:187][  0]SourceControl: Source control is disabled
+[2022.12.17-16.30.40:197][  0]SourceControl: Source control is disabled
+[2022.12.17-16.30.40:207][  0]LogUProjectInfo: Found projects:
+[2022.12.17-16.30.40:440][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.17-16.30.40:516][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.17-16.30.40:540][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.17-16.30.40:540][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.17-16.30.40:786][  0]LogCollectionManager: Loaded 0 collections in 0.001872 seconds
+[2022.12.17-16.30.40:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Saved/Collections/' took 0.00s
+[2022.12.17-16.30.40:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Content/Developers/stass/Collections/' took 0.00s
+[2022.12.17-16.30.40:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Content/Collections/' took 0.00s
+[2022.12.17-16.30.40:817][  0]LogOcInput: OculusInput pre-init called
+[2022.12.17-16.30.41:041][  0]LogEngine: Initializing Engine...
+[2022.12.17-16.30.41:045][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.17-16.30.41:045][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.17-16.30.41:045][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.17-16.30.41:046][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.17-16.30.41:185][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.17-16.30.41:198][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.17-16.30.41:199][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.17-16.30.41:206][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.17-16.30.41:207][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.17-16.30.41:207][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.17-16.30.41:207][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.17-16.30.41:207][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.17-16.30.41:207][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.17-16.30.41:208][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.17-16.30.41:208][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.17-16.30.41:208][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.17-16.30.41:208][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.17-16.30.41:226][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.17-16.30.41:226][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.17-16.30.41:927][  0]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.17-16.30.41:928][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.17-16.30.41:930][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.17-16.30.41:930][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.17-16.30.41:931][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.17-16.30.41:931][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.17-16.30.41:931][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.17-16.30.41:933][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.17-16.30.41:933][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.17-16.30.41:933][  0]LogInit: FAudioDevice initialized.
+[2022.12.17-16.30.41:933][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.17-16.30.41:933][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.17-16.30.41:988][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.17-16.30.41:989][  0]LogInit: Texture streaming: Enabled
+[2022.12.17-16.30.42:009][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.17-16.30.42:016][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.17-16.30.42:017][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={796CBBCB-4C29-4068-FF1D-9888AEE2177C}
+[2022.12.17-16.30.42:017][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.17-16.30.42:020][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.17-16.30.42:053][  0]LogInit: Transaction tracking system initialized
+[2022.12.17-16.30.42:081][  0]BlueprintLog: New page: Editor Load
+[2022.12.17-16.30.42:164][  0]LocalizationService: Localization service is disabled
+[2022.12.17-16.30.42:196][  0]TimingProfiler: Initialize
+[2022.12.17-16.30.42:197][  0]TimingProfiler: OnSessionChanged
+[2022.12.17-16.30.42:197][  0]LoadingProfiler: Initialize
+[2022.12.17-16.30.42:197][  0]LoadingProfiler: OnSessionChanged
+[2022.12.17-16.30.42:197][  0]NetworkingProfiler: Initialize
+[2022.12.17-16.30.42:197][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.17-16.30.42:197][  0]MemoryProfiler: Initialize
+[2022.12.17-16.30.42:197][  0]MemoryProfiler: OnSessionChanged
+[2022.12.17-16.30.42:360][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.17-16.30.42:360][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.17-16.30.42:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Necromancy/Content/' took 0.01s
+[2022.12.17-16.30.42:709][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.17-16.30.42:713][  0]SourceControl: Source control is disabled
+[2022.12.17-16.30.42:713][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.063
+[2022.12.17-16.30.42:713][  0]Cmd: MAP LOAD FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.17-16.30.42:713][  0]LightingResults: New page: Lighting Build
+[2022.12.17-16.30.42:714][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-16.30.42:714][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-16.30.42:714][  0]MapCheck: New page: Map Check
+[2022.12.17-16.30.42:714][  0]LightingResults: New page: Lighting Build
+[2022.12.17-16.30.42:719][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.17-16.30.42:721][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.17-16.30.42:732][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.12.17-16.30.42:732][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.12.17-16.30.42:733][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.17-16.30.42:737][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.12.17-16.30.42:737][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.17-16.30.42:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,136ms to complete.
+[2022.12.17-16.30.42:737][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.025
+[2022.12.17-16.30.42:739][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.089
+[2022.12.17-16.30.42:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.17-16.30.42:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.17-16.30.42:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.17-16.30.42:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.17-16.30.42:861][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3823 classes and 930 folders.
+[2022.12.17-16.30.42:863][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.17-16.30.42:864][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.17-16.30.42:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.17-16.30.42:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.17-16.30.42:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.12.17-16.30.42:865][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.17-16.30.42:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.17-16.30.42:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.17-16.30.42:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.17-16.30.42:865][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.17-16.30.42:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.17-16.30.42:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.17-16.30.42:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.17-16.30.42:866][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.17-16.30.42:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.17-16.30.42:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.17-16.30.42:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.17-16.30.42:866][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.17-16.30.42:866][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:866][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.17-16.30.42:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:866][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.17-16.30.42:866][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.17-16.30.42:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.17-16.30.42:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.17-16.30.42:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.17-16.30.42:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.17-16.30.42:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.17-16.30.42:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:868][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.17-16.30.42:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.17-16.30.42:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.17-16.30.42:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:868][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.17-16.30.42:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.17-16.30.42:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.17-16.30.42:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.17-16.30.42:869][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.17-16.30.42:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.17-16.30.42:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.17-16.30.42:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:869][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.17-16.30.42:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.17-16.30.42:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:869][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.17-16.30.42:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.17-16.30.42:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.17-16.30.42:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.17-16.30.42:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.17-16.30.42:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.17-16.30.42:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:870][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.17-16.30.42:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:871][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.17-16.30.42:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.17-16.30.42:871][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:871][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.17-16.30.42:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:871][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.17-16.30.42:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.17-16.30.42:871][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:871][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.17-16.30.42:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.17-16.30.42:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.17-16.30.42:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.17-16.30.42:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.17-16.30.42:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.17-16.30.42:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.17-16.30.42:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.17-16.30.42:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.17-16.30.42:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.17-16.30.42:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.17-16.30.42:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.17-16.30.42:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:874][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.17-16.30.42:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.17-16.30.42:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.17-16.30.42:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.12.17-16.30.42:874][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.17-16.30.42:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.17-16.30.42:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.17-16.30.42:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.12.17-16.30.42:875][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.17-16.30.42:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.17-16.30.42:875][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:875][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.17-16.30.42:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.12.17-16.30.42:875][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.17-16.30.42:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.17-16.30.42:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.17-16.30.42:875][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.17-16.30.42:875][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.17-16.30.42:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.12.17-16.30.42:913][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.17-16.30.42:918][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.12.17-16.30.42:927][  0]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.42:972][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.17-16.30.42:973][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.17-16.30.42:974][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.17-16.30.43:043][  0]LogRenderer: Reallocating scene render targets to support 848x444 Format 10 NumSamples 1 (Frame:1).
+[2022.12.17-16.30.43:077][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.17-16.30.43:114][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.17-16.30.43:114][  0]LogLoad: (Engine Initialization) Total time: 7.47 seconds
+[2022.12.17-16.30.43:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.17-16.30.43:161][  0]LogAssetRegistry: Asset discovery search completed in 4.6301 seconds
+[2022.12.17-16.30.43:167][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.17-16.30.43:168][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.17-16.30.44:312][ 58]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.44:312][ 58]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.44:312][ 58]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.44:316][ 58]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.44:915][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.12.17-16.30.44:922][ 93]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.17-16.30.45:232][ 93]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tutorial.Tutorial
+[2022.12.17-16.30.45:232][ 93]Cmd: MAP LOAD FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.17-16.30.45:232][ 93]LightingResults: New page: Lighting Build
+[2022.12.17-16.30.45:233][ 93]LoadErrors: New page: Loading map: Tutorial.umap
+[2022.12.17-16.30.45:235][ 93]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-16.30.45:235][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-16.30.45:235][ 93]MapCheck: New page: Map Check
+[2022.12.17-16.30.45:235][ 93]LightingResults: New page: Lighting Build
+[2022.12.17-16.30.45:239][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.17-16.30.45:244][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.12.17-16.30.45:244][ 93]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tutorial'.
+[2022.12.17-16.30.45:255][ 93]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.17-16.30.45:255][ 93]LogAIModule: Creating AISystem for world Tutorial
+[2022.12.17-16.30.45:266][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.12.17-16.30.45:272][ 93]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.17-16.30.45:272][ 93]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,115ms to complete.
+[2022.12.17-16.30.45:272][ 93]LogFileHelpers: Loading map 'Tutorial' took 0.040
+[2022.12.17-16.30.46:425][155]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.46:425][155]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.46:425][155]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.46:428][155]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.48:437][267]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.48:437][267]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.48:437][267]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.48:440][267]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.50:450][377]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.50:450][377]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.50:450][377]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.50:453][377]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2022.12.17-16.30.50:462][377]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.51:974][463]Cmd: EDCALLBACK SURFPROPS
+[2022.12.17-16.30.52:461][485]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.52:461][485]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.52:461][485]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.52:464][485]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.53:908][568]LogEditorViewport: Clicking on Actor (LMB): BP_Checkpoint_C (BP_Checkpoint)
+[2022.12.17-16.30.54:471][594]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.54:471][594]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.54:471][594]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.54:474][594]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.56:482][708]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.56:482][708]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.56:482][708]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.56:485][708]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.30.58:495][822]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.30.58:495][822]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.30.58:495][822]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.30.58:499][822]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.00:502][936]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.00:502][936]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.00:502][936]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.00:506][936]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.02:517][ 50]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.02:517][ 50]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.02:517][ 50]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.02:523][ 50]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.02:539][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.17-16.31.02:543][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.17-16.31.02:590][ 50]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/Tutorial9944477C430592C42F0CC39A106E8CEF.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap'
+[2022.12.17-16.31.02:598][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2022.12.17-16.31.02:646][ 50]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/Tutorial_BuiltData3B9788504E07593E26325A8C6E7D7E0C.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial_BuiltData.uasset'
+[2022.12.17-16.31.02:658][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.17-16.31.02:658][ 50]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2022.12.17-16.31.02:658][ 50]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2022.12.17-16.31.04:530][156]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.04:531][156]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.04:531][156]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.04:534][156]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.06:542][270]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.06:542][270]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.06:542][270]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.06:545][270]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.08:553][384]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.08:553][384]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.08:553][384]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.08:556][384]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.09:624][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.17-16.31.09:628][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.17-16.31.09:673][447]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/Tutorial33C7C7DD4F45169E0A029086A7F167EF.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap'
+[2022.12.17-16.31.09:680][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2022.12.17-16.31.09:711][447]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/Tutorial_BuiltData7B31905B49ED8664A5E4A68131C8C138.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial_BuiltData.uasset'
+[2022.12.17-16.31.09:721][447]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.17-16.31.09:722][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2022.12.17-16.31.09:722][447]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2022.12.17-16.31.10:562][492]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.10:562][492]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.10:562][492]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.10:566][492]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.10:865][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.17-16.31.10:868][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.12.17-16.31.10:915][509]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/Tutorial3C7345234D4D91EF1D9BE9B3C16FC7FB.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial.umap'
+[2022.12.17-16.31.10:923][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial_BuiltData" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial_BuiltData.uasset" SILENT=true
+[2022.12.17-16.31.10:953][509]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/Tutorial_BuiltDataB5D1068841A11BE26228B59B33DD6FFE.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Levels/Tutorial_BuiltData.uasset'
+[2022.12.17-16.31.10:962][509]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.17-16.31.10:962][509]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Tutorial_BuiltData.Tutorial_BuiltData
+[2022.12.17-16.31.10:962][509]LogContentValidation: Display: Validating World /Game/Levels/Tutorial.Tutorial
+[2022.12.17-16.31.12:574][600]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.12:574][600]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.12:574][600]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.12:582][601]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.12:814][614]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.17-16.31.12:824][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.17-16.31.12:824][614]PIE: New page: PIE session: Tutorial (17 dec. 2022 18:31:12)
+[2022.12.17-16.31.12:825][614]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.17-16.31.12:825][614]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.17-16.31.12:825][614]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2022.12.17-16.31.12:843][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017189s)
+[2022.12.17-16.31.12:843][614]LogAIModule: Creating AISystem for world Tutorial
+[2022.12.17-16.31.12:843][614]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2022.12.17-16.31.12:843][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.018216s)
+[2022.12.17-16.31.12:849][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.17-16.31.12:850][614]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.17-16.31.12:850][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.17-16.31.12:850][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.17-16.31.12:850][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.17-16.31.12:850][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.17-16.31.12:850][614]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.17-16.31.12:855][614]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.17-16.31.12:855][614]LogAudioMixer: Display: 1: FrontRight
+[2022.12.17-16.31.12:960][614]LogAudioMixer: Display: Using Audio Device Headphone (Realtek(R) Audio)
+[2022.12.17-16.31.12:961][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.17-16.31.12:961][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.17-16.31.12:961][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.17-16.31.12:961][614]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.17-16.31.12:961][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.17-16.31.12:961][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.17-16.31.12:962][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.17-16.31.12:962][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.17-16.31.12:962][614]LogInit: FAudioDevice initialized.
+[2022.12.17-16.31.12:962][614]LogAudio: Display: Audio Device (ID: 2) registered with world 'Tutorial'.
+[2022.12.17-16.31.12:974][614]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.12.17-16.31.12:978][614]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 60) at 2022.12.17-17.31.12
+[2022.12.17-16.31.12:981][614]LogWorld: Bringing up level for play took: 0.005689
+[2022.12.17-16.31.12:981][614]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.12.17-16.31.12:984][614]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.12.17-16.31.12:989][614]PIE: Server logged in
+[2022.12.17-16.31.12:989][614]PIE: Play in editor total start time 0,167 seconds.
+[2022.12.17-16.31.14:586][703]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.14:586][703]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.14:586][703]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.14:589][703]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.16:601][817]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.16:601][817]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.16:601][817]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.16:605][817]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.18:610][931]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.18:610][931]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.18:610][931]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.18:614][931]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.20:624][ 45]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.20:624][ 45]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.20:624][ 45]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.20:629][ 45]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.22:636][159]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.22:636][159]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.22:636][159]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.22:639][159]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.24:649][273]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.24:649][273]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.24:649][273]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.24:652][273]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.26:660][387]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.26:660][387]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.26:660][387]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.26:664][387]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.28:671][501]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.28:671][501]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.28:671][501]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.28:674][501]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.30:680][615]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.30:680][615]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.30:680][615]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.30:683][615]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.32:690][729]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.32:690][729]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.32:690][729]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.32:693][729]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.34:701][843]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.34:701][843]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.34:701][843]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.34:705][843]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.36:712][957]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.36:712][957]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.36:712][957]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.36:715][957]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.38:721][ 71]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.38:721][ 71]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.38:721][ 71]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.38:724][ 71]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.40:734][185]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.40:734][185]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.40:734][185]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.40:737][185]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.41:237][215]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'TextArray' of length 5 in '/Game/Blueprints/BP_Checkpoint.BP_Checkpoint_C'!
+[2022.12.17-16.31.42:744][299]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.42:744][299]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.42:744][299]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.42:747][299]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.44:757][413]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.44:757][413]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.44:757][413]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.44:760][413]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.46:768][527]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.46:768][527]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.46:768][527]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.46:771][527]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.48:780][641]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.48:780][641]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.48:780][641]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.48:785][641]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.50:225][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.17-16.31.50:225][726]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2022.12.17-16.31.50:226][726]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2022.12.17-16.31.50:226][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-16.31.50:238][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.17-16.31.50:243][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.17-16.31.50:247][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.17-16.31.50:247][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.17-16.31.50:248][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.17-16.31.50:252][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.12.17-16.31.50:303][729]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.17-16.31.50:789][752]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.50:789][752]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.50:789][752]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.50:792][752]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.52:800][866]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.52:800][866]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.52:800][866]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.52:803][866]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.54:808][980]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.54:808][980]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.54:808][980]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.54:811][980]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.56:816][ 94]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.56:816][ 94]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.56:816][ 94]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.56:820][ 94]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.31.58:829][208]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.31.58:829][208]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.31.58:829][208]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.31.58:832][208]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.00:840][322]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.00:840][322]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.00:840][322]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.00:843][322]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.02:850][435]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.02:850][435]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.02:850][435]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.02:853][435]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.04:858][549]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.04:858][549]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.04:858][549]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.04:861][549]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.06:524][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Checkpoint.BP_Checkpoint
+[2022.12.17-16.32.06:665][648]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.12.17-16.32.07:284][648]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.17-16.32.07:333][649]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.17-16.32.07:473][650]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.07:474][650]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.07:474][650]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.07:479][650]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.09:487][762]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.09:487][762]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.09:487][762]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.09:490][762]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.11:499][874]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.11:499][874]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.11:499][874]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.11:503][874]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.13:513][986]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.13:513][986]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.13:513][986]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.13:516][986]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.13:759][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Checkpoint" FILE="../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Checkpoint.uasset" SILENT=true
+[2022.12.17-16.32.13:774][  0]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Necromancy/Saved/BP_Checkpoint6A8B7497416DD945A69757BD92F6F572.tmp' to '../../../../../../Users/stass/Documents/UE4/Necromancy/Content/Blueprints/BP_Checkpoint.uasset'
+[2022.12.17-16.32.13:785][  0]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2022.12.17-16.32.13:785][  0]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Checkpoint.BP_Checkpoint
+[2022.12.17-16.32.15:524][ 96]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.15:524][ 96]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.15:524][ 96]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.15:527][ 96]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.17:436][208]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.17:436][208]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.17:436][208]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.17:439][208]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.19:548][326]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.19:548][326]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.19:548][326]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.19:551][326]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.21:561][438]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.21:561][438]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.21:561][438]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.21:563][438]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.23:573][550]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.23:573][550]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.23:573][550]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.23:576][550]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.25:585][662]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.25:585][662]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.25:585][662]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.25:588][662]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.27:594][773]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.27:594][773]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.27:594][773]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.27:597][773]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.29:603][885]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.29:603][885]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.29:603][885]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.29:606][885]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.31:616][997]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.31:616][997]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.31:616][997]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.31:619][997]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.33:627][109]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.33:627][109]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.33:627][109]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.33:630][109]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.35:637][221]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.35:637][221]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.35:637][221]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.35:640][221]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.37:649][333]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.37:650][333]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.37:650][333]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.37:654][333]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.39:661][445]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.39:661][445]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.39:661][445]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.39:664][445]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.41:673][557]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.41:673][557]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.41:673][557]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.41:676][557]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.43:684][669]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.43:684][669]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.43:684][669]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.43:686][669]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.45:693][781]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.45:693][781]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.45:693][781]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.45:696][781]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.47:705][893]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.47:705][893]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.47:705][893]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.47:708][893]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.49:717][  5]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.49:717][  5]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.49:717][  5]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.49:721][  5]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.51:727][112]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.51:727][112]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.51:727][112]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.51:730][112]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.32.53:934][160]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.32.53:934][160]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.32.53:934][160]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.32.53:937][160]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.33.02:999][161]LogRHI: Error: Present Fail Count 1
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1038
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.OutputWindow 0000000002E00C66
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.02:999][161]LogRHI: Error: Present Fail Count 1
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1038
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.OutputWindow 00000000029406B8
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.02:999][161]LogRHI: Error: Present Fail Count 1
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.02:999][161]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:000][161]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:000][161]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:000][161]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:000][161]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:069][162]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.12.17-16.33.03:069][162]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.12.17-16.33.03:070][162]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.12.17-16.33.03:073][162]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.12.17-16.33.03:258][164]LogRHI: Error: Present Fail Count 2
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:258][164]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:323][168]LogRHI: Error: Present Fail Count 1
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:323][168]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:523][171]LogRHI: Error: Present Fail Count 2
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:523][171]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:571][174]LogRHI: Error: Present Fail Count 3
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:571][174]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:622][177]LogRHI: Error: Present Fail Count 4
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:622][177]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:670][180]LogRHI: Error: Present Fail Count 5
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:670][180]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:723][183]LogRHI: Error: Present Fail Count 6
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:724][183]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:771][186]LogRHI: Error: Present Fail Count 7
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:771][186]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:832][189]LogRHI: Error: Present Fail Count 8
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:832][189]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:882][192]LogRHI: Error: Present Fail Count 9
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:882][192]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:931][195]LogRHI: Error: Present Fail Count 10
+[2022.12.17-16.33.03:931][195]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:932][195]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:969][198]LogRHI: Error: Present Fail Count 11
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SyncInterval 0
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.Width 513
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.Height 513
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000150456
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.12.17-16.33.03:969][198]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.12.17-16.33.03:969][198]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:443 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2022.12.17-16.33.03:969][198]LogD3D11RHI: [Aftermath] GDynamicRHI=000001DDCD2DB240, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.12.17-16.33.03:969][198]LogWindows: Windows GetLastError: De bewerking is voltooid. (0)

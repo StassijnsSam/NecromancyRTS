@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\stass\\Documents\\UE4\\DemoProject\\Source\\DemoProject\\DemoProject.Build.cs",
+		"C:\\Users\\stass\\Documents\\UE4\\DemoProject\\Source\\DemoProject.Target.cs",
+		"C:\\Users\\stass\\Documents\\UE4\\DemoProject\\Source\\DemoProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

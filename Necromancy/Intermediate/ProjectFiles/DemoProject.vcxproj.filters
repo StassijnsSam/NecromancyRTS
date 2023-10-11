@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DemoProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{004BDDE2-A2C3-4170-AE2F-634CB43CAB7B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DemoProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DemoProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9B4F351C-1154-4914-91D1-65D103DDB571}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DemoProject">
+      <UniqueIdentifier>{6B5BD766-B5FA-47C3-867E-7DC7858AF00E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DemoProject\DemoProject.Build.cs">
+      <Filter>Source\DemoProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DemoProject\DemoProject.cpp">
+      <Filter>Source\DemoProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DemoProject\DemoProject.h">
+      <Filter>Source\DemoProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DemoProject\DemoProjectGameModeBase.cpp">
+      <Filter>Source\DemoProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DemoProject\DemoProjectGameModeBase.h">
+      <Filter>Source\DemoProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

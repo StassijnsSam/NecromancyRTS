@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DemoProject",
+			"Path": "C:\\Users\\stass\\Documents\\UE4\\Formations\\Necromancy\\Source\\DemoProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DemoProjectEditor",
+			"Path": "C:\\Users\\stass\\Documents\\UE4\\Formations\\Necromancy\\Source\\DemoProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

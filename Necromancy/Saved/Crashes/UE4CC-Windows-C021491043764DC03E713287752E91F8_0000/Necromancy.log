@@ -1,0 +1,1217 @@
+﻿Log file open, 01/23/23 10:11:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Necromancy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.240032
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.01.23-09.11.55:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:042][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.23-09.11.55:048][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.23-09.11.55:049][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.23-09.11.55:049][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.23-09.11.55:049][  0]LogHAL: Display: Platform has ~ 16 GB [16799985664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.23-09.11.55:049][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Scalability.ini]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.01.23-09.11.55:049][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.23-09.11.55:050][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.23-09.11.55:050][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.23-09.11.55:050][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.23-09.11.55:050][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Engine.ini]
+[2023.01.23-09.11.55:050][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Config/Windows/Editor.ini]
+[2023.01.23-09.11.55:050][  0]LogInit: Computer: SAMPLE
+[2023.01.23-09.11.55:050][  0]LogInit: User: stass
+[2023.01.23-09.11.55:050][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.23-09.11.55:050][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.23-09.11.55:050][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2023.01.23-09.11.55:050][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.23-09.11.55:050][  0]LogMemory: Process Physical Memory: 155.71 MB used, 158.17 MB peak
+[2023.01.23-09.11.55:050][  0]LogMemory: Process Virtual Memory: 131.93 MB used, 131.93 MB peak
+[2023.01.23-09.11.55:050][  0]LogMemory: Physical Memory: 10547.52 MB used,  5474.19 MB free, 16021.71 MB total
+[2023.01.23-09.11.55:050][  0]LogMemory: Virtual Memory: 134183512.00 MB used,  34214.88 MB free, 134217728.00 MB total
+[2023.01.23-09.11.55:054][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.23-09.11.55:097][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.23-09.11.55:099][  0]LogInit: Using OS detected language (nl-NL).
+[2023.01.23-09.11.55:099][  0]LogInit: Using OS detected locale (nl-BE).
+[2023.01.23-09.11.55:101][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2023.01.23-09.11.55:242][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.23-09.11.55:254][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.23-09.11.55:265][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.23-09.11.55:265][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.23-09.11.55:373][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.01.23-09.11.55:413][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.23-09.11.55:413][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.23-09.11.55:413][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.23-09.11.55:413][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.23-09.11.55:494][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_0)
+[2023.01.23-09.11.55:494][  0]LogD3D11RHI:       8044/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.01.23-09.11.55:532][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.01.23-09.11.55:532][  0]LogD3D11RHI:       128/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:       0/0/8010 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     DeviceId    : 249d
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     SubSysId    : 88f4103c
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     SharedSystemMemory : 8399992832 bytes
+[2023.01.23-09.11.55:535][  0]LogD3D11RHI:     AdapterLuid : 0 71930
+[2023.01.23-09.11.55:543][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.23-09.11.55:543][  0]LogD3D11RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2023.01.23-09.11.55:543][  0]LogWindows: EnumDisplayDevices:
+[2023.01.23-09.11.55:543][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.01.23-09.11.55:543][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.01.23-09.11.55:543][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.01.23-09.11.55:543][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.01.23-09.11.55:543][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.01.23-09.11.55:543][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.01.23-09.11.55:544][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.01.23-09.11.55:544][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0)
+[2023.01.23-09.11.55:544][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:      Driver Date: 5-5-2022
+[2023.01.23-09.11.55:544][  0]LogRHI: Texture pool is 5630 MB (70% of 8044 MB)
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     DeviceId    : 249d
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     SubSysId    : 88f4103c
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     DedicatedVideoMemory : 8434745344 bytes
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     SharedSystemMemory : 8399992832 bytes
+[2023.01.23-09.11.55:544][  0]LogD3D11RHI:     AdapterLuid : 0 71930
+[2023.01.23-09.11.55:588][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.23-09.11.55:588][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.23-09.11.55:588][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.23-09.11.55:598][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.23-09.11.55:612][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.01.23-09.11.55:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.23-09.11.55:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.23-09.11.55:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.23-09.11.55:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.23-09.11.55:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.23-09.11.55:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.01.23-09.11.55:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.23-09.11.55:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.23-09.11.55:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.01.23-09.11.55:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.01.23-09.11.55:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.01.23-09.11.55:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.01.23-09.11.55:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.01.23-09.11.55:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.01.23-09.11.55:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.01.23-09.11.55:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.01.23-09.11.55:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.01.23-09.11.55:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.23-09.11.55:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.23-09.11.55:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.23-09.11.55:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.23-09.11.55:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.23-09.11.55:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.23-09.11.55:986][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.23-09.11.55:993][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.23-09.11.56:024][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.01.23-09.11.56:063][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.23-09.11.56:063][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Intermediate/Shaders/WorkingDirectory/24320/).
+[2023.01.23-09.11.56:063][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stass/AppData/Local/Temp/UnrealShaderWorkingDir/EDE1095240F6F1BBF6E8A0BA444301A5/'.
+[2023.01.23-09.11.56:063][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.23-09.11.56:063][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.23-09.11.56:063][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.23-09.11.56:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.23-09.11.56:686][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.23-09.11.56:686][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.01.23-09.11.56:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.23-09.11.56:686][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.23-09.11.56:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.23-09.11.56:686][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.23-09.11.56:699][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.23-09.11.56:699][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.23-09.11.56:699][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.23-09.11.56:705][  0]LogDerivedDataCache: Speed tests for C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.23-09.11.56:705][  0]LogDerivedDataCache: Display: Performance to C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1454.68MBs, RandomWriteSpeed=196.76MBs. Assigned SpeedClass 'Local'
+[2023.01.23-09.11.56:706][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.23-09.11.56:706][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.23-09.11.56:706][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.23-09.11.56:740][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.23-09.11.56:741][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.23-09.11.56:761][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2023.01.23-09.11.56:933][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.23-09.11.56:933][  0]LogInit: Active device profile: [000001482D660700][00000148252614C0 49] Windows
+[2023.01.23-09.11.56:933][  0]LogInit: Profiles: [000001482D660700][00000148252614C0 49] Windows, [000001482D627700][000001482BF6F640 49] WindowsNoEditor, [000001482D663300][000001482BF737C0 49] WindowsServer, [000001482D624F00][000001482BF77940 49] WindowsClient, [000001482D663500][000001482BF7BAC0 49] IOS, [000001482D587F00][000001482BF820C0 49] iPadAir, [000001482D627B00][0000014822042240 49] iPadAir2, [000001482D4A8500][0000014825494500 49] IPadPro, [000001482D4A8600][000001482548C540 49] iPadAir3, [000001482D584100][000001482549C6C0 49] iPadAir4, [000001482D4AAC00][000001482208A840 49] iPadMini2, [000001482D586500][0000014825264980 49] iPadMini3, [000001482D4AB400][00000148220A2AC0 49] iPadMini4, [000001482D584F00][00000148220A6C00 49] iPadMini5, [000001482D493E00][00000148220B6E80 49] iPhone6, [000001482D493F00][00000148220AEEC0 49] iPodTouch6, [000001482D663900][0000014827355180 49] iPhone7, [000001482D662100][00000148273511C0 49] iPodTouch7, [000001482D490400][000001482E79B340 49] iPhone5S, [000001482D4ABD00][000001482E79F4C0 49] iPhone6Plus, [000001482D663400][000001482E7AB640 49] iPhone6S, [000001482D4AA000][00000148273717C0 49] iPhone6SPlus, [000001482D660900][0000014827375940 49] iPhone7Plus, [000001482D4A8E00][0000014827379AC0 49] iPhoneSE, [000001482D663100][000001482D2540C0 49] iPhone8, [000001482D4AA400][0000014825464240 49] iPhone8Plus, [000001482D663A00][00000148254683C0 49] iPhoneX, [000001482D4ABE00][000001482546C540 49] iPhoneXS, [000001482D661500][00000148254706C0 49] iPhoneXSMax, [000001482D4AA500][0000014825474840 49] iPhoneXR, [000001482D662A00][00000148254789C0 49] iPhone11, [000001482D4ABA00][000001482547CB40 49] iPhone11Pro, [000001482D660F00][00000148220B2C80 49] iPhone11ProMax, [000001482D4AA300][0000014825480DC0 49] iPhoneSE2, [000001482D661700][0000014825484F00 49] iPhone12Mini, [000001482D4A8700][000001482E4EB080 49] iPhone12, [000001482D660300][000001482E533200 49] iPhone12Pro, [000001482D4AB500][000001482E53F380 49] iPhone12ProMax, [000001482D660B00][000001482E59F500 49] iPadPro105, [000001482D4A9B00][000001482E5A7680 49] iPadPro129, [000001482D660200][000001482E5AB800 49] iPadPro97, [000001482D4AA100][000001482E5DB980 49] iPadPro2_129, [000001482D660D00][000001482EA4FB00 49] iPad5, [000001482D4AB000][000001482EA68100 49] iPad6, [000001482D662C00][000001482EA76280 49] iPad7, [000001482D4AAE00][000001482EA7A400 49] iPad8, [000001482D661900][000001482EA7E580 49] iPadPro11, [000001482D4ABF00][000001482EA82700 49] iPadPro2_11, [000001482D661600][000001482EA86880 49] iPadPro3_129, [000001482D4AA700][000001482EA8AA00 49] iPadPro4_129, [000001482D662600][000001482EA8EB80 49] AppleTV, [000001482D4AAB00][000001482EB02D00 49] AppleTV4K, [000001482D661B00][000001482D386E40 49] TVOS, [000001482D4A8900][000001482E8BEF80 49] Mac, [000001482D662700][000001482E8DD0C0 49] MacClient, [000001482D4AAF00][000001482D2BF240 49] MacNoEditor, [000001482D663B00][000001482D2C33C0 49] MacServer, [000001482D4A8400][000001482E8E9540 49] Linux, [000001482D662E00][000001482E8ED6C0 49] LinuxAArch64, [000001482D4A9500][000001482E8F5840 49] LinuxNoEditor, [000001482D662B00][000001482E8F99C0 49] LinuxAArch64NoEditor, [000001482D4AB600][000001482E8FDB40 49] LinuxClient, [000001482D662D00][000001482EBB0140 49] LinuxAArch64Client, [000001482D4A8B00][000001482EBB42C0 49] LinuxServer, [000001482D660400][000001482EBB8440 49] LinuxAArch64Server, [000001482D4ABC00][000001482EBBC5C0 49] Android, [000001482D587A00][0000014825444740 49] Android_Low, [000001482D491B00][00000148254488C0 49] Android_Mid, [000001482D587000][000001482E8F0A40 49] Android_High, [000001482D492300][0000014825458BC0 49] Android_Default, [000001482D586000][000001482545CD40 49] Android_Adreno4xx, [000001482D490100][0000014825460EC0 49] Android_Adreno5xx_Low, [000001482D584B00][000001482D2BB000 49] Android_Adreno5xx, [000001482D491800][000001482D33B140 49] Android_Adreno6xx, [000001482D585100][000001482D33F280 49] Android_Adreno6xx_Vulkan, [000001482D490800][000001482D3433C0 49] Android_Mali_T6xx, [000001482D587600][000001482D34B540 49] Android_Mali_T7xx, [000001482D490D00][000001482D34F6C0 49] Android_Mali_T8xx, [000001482D587C00][000001482D353840 49] Android_Mali_G71, [000001482D491500][000001482D3579C0 49] Android_Mali_G72, [000001482D587E00][000001482E4BBB40 49] Android_Mali_G72_Vulkan, [000001482D493D00][000001482E4BE140 49] Android_Mali_G76, [000001482D587900][000001482E4C22C0 49] Android_Mali_G76_Vulkan, [000001482D493600][000001482E4C6440 49] Android_Mali_G77, [000001482D586200][000001482E4CA5C0 49] Android_Mali_G77_Vulkan, [000001482D493800][000001482E4CE740 49] Android_Mali_G78, [000001482D584A00][000001482E4D28C0 49] Android_Mali_G78_Vulkan, [000001482D493400][000001482E4D6A40 49] Android_Mali_G710, [000001482D585400][000001482E4DABC0 49] Android_Mali_G710_Vulkan, [000001482D490600][000001482E4DED40 49] Android_Vulkan_SM5, [000001482D586400][000001482E4E2EC0 49] Android_PowerVR_G6xxx, [000001482D490E00][000001482E4E7040 49] Android_PowerVR_GT7xxx, [000001482D584200][000001482D347180 49] Android_PowerVR_GE8xxx, [000001482D490700][000001482E5B72C0 49] Android_PowerVR_GM9xxx, [000001482D586100][000001482E5B3400 49] Android_PowerVR_GM9xxx_Vulkan, [000001482D4AA600][000001482E5AF540 49] Android_TegraK1, [000001482D586A00][000001482E53B6C0 49] Android_Unknown_Vulkan, [000001482D4A9400][000001482E537840 49] Lumin, [000001482D585300][000001482E52F9C0 49] Lumin_Desktop, [000001482D4A8C00][000001482E4FFB40 49] HoloLens, 
+[2023.01.23-09.11.57:039][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.23-09.11.57:039][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.23-09.11.57:039][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.23-09.11.57:039][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.23-09.11.57:039][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.23-09.11.57:052][  0]LogNetVersion: Necromancy 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3922813145)
+[2023.01.23-09.11.57:335][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.23-09.11.57:375][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.01.23-09.11.57:379][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.01.23-09.11.57:379][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.01.23-09.11.57:379][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.23-09.11.57:621][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 780D341E4E060439E5E3E797E51421AF | Instance: A5AB631043FC8F01401CF7A80E75FD32 (SAMPLE-24320).
+[2023.01.23-09.11.57:721][  0]LogPython: Using Python 3.7.7
+[2023.01.23-09.11.58:118][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.23-09.11.58:123][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.23-09.11.58:312][  0]SourceControl: Source control is disabled
+[2023.01.23-09.11.58:312][  0]SourceControl: Source control is disabled
+[2023.01.23-09.11.58:331][  0]SourceControl: Source control is disabled
+[2023.01.23-09.11.58:365][  0]SourceControl: Source control is disabled
+[2023.01.23-09.11.58:373][  0]SourceControl: Source control is disabled
+[2023.01.23-09.11.58:380][  0]LogUProjectInfo: Found projects:
+[2023.01.23-09.11.58:560][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.23-09.11.58:590][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.23-09.11.58:613][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.23-09.11.58:613][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.23-09.11.58:722][  0]LogCollectionManager: Loaded 0 collections in 0.001222 seconds
+[2023.01.23-09.11.58:746][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Formations/Necromancy/Saved/Collections/' took 0.00s
+[2023.01.23-09.11.58:746][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Formations/Necromancy/Content/Developers/stass/Collections/' took 0.00s
+[2023.01.23-09.11.58:746][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Formations/Necromancy/Content/Collections/' took 0.00s
+[2023.01.23-09.11.58:746][  0]LogOcInput: OculusInput pre-init called
+[2023.01.23-09.11.58:934][  0]LogEngine: Initializing Engine...
+[2023.01.23-09.11.58:986][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.01.23-09.11.58:986][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.01.23-09.11.58:986][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.01.23-09.11.58:987][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2023.01.23-09.11.58:987][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.23-09.11.58:987][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.23-09.11.58:988][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.23-09.11.59:080][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.23-09.11.59:089][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.23-09.11.59:092][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.23-09.11.59:096][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.23-09.11.59:096][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.23-09.11.59:097][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.23-09.11.59:097][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.23-09.11.59:097][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.23-09.11.59:097][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.23-09.11.59:097][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.23-09.11.59:097][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.23-09.11.59:097][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.23-09.11.59:109][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.23-09.11.59:109][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.23-09.12.00:127][  0]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2023.01.23-09.12.00:129][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.23-09.12.00:131][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.23-09.12.00:131][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.23-09.12.00:131][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.23-09.12.00:131][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.23-09.12.00:131][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.23-09.12.00:132][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.23-09.12.00:132][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.23-09.12.00:132][  0]LogInit: FAudioDevice initialized.
+[2023.01.23-09.12.00:132][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.23-09.12.00:132][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.23-09.12.00:179][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/stass/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.01.23-09.12.00:179][  0]LogInit: Texture streaming: Enabled
+[2023.01.23-09.12.00:191][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.01.23-09.12.00:194][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.23-09.12.00:195][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.01.23-09.12.00:198][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.01.23-09.12.00:222][  0]LogInit: Transaction tracking system initialized
+[2023.01.23-09.12.00:245][  0]BlueprintLog: New page: Editor Load
+[2023.01.23-09.12.00:301][  0]LocalizationService: Localization service is disabled
+[2023.01.23-09.12.00:325][  0]TimingProfiler: Initialize
+[2023.01.23-09.12.00:325][  0]TimingProfiler: OnSessionChanged
+[2023.01.23-09.12.00:325][  0]LoadingProfiler: Initialize
+[2023.01.23-09.12.00:325][  0]LoadingProfiler: OnSessionChanged
+[2023.01.23-09.12.00:325][  0]NetworkingProfiler: Initialize
+[2023.01.23-09.12.00:325][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.23-09.12.00:325][  0]MemoryProfiler: Initialize
+[2023.01.23-09.12.00:325][  0]MemoryProfiler: OnSessionChanged
+[2023.01.23-09.12.00:444][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.01.23-09.12.00:444][  0]LogCook: Display: Mobile HDR setting 1
+[2023.01.23-09.12.00:608][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stass/Documents/UE4/Formations/Necromancy/Content/' took 0.00s
+[2023.01.23-09.12.00:729][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.23-09.12.00:738][  0]SourceControl: Source control is disabled
+[2023.01.23-09.12.00:738][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.185
+[2023.01.23-09.12.00:738][  0]Cmd: MAP LOAD FILE="../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.23-09.12.00:738][  0]LightingResults: New page: Lighting Build
+[2023.01.23-09.12.00:739][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.12.00:739][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.12.00:739][  0]MapCheck: New page: Map Check
+[2023.01.23-09.12.00:739][  0]LightingResults: New page: Lighting Build
+[2023.01.23-09.12.00:748][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.12.00:750][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.23-09.12.00:760][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.01.23-09.12.00:761][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.01.23-09.12.00:761][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.23-09.12.00:765][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.23-09.12.00:765][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.23-09.12.00:766][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2023.01.23-09.12.00:766][  0]LogFileHelpers: Loading map 'MainMenuLevel' took 0.028
+[2023.01.23-09.12.00:768][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.215
+[2023.01.23-09.12.00:876][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.12.00:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.12.00:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.12.00:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.12.00:905][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3827 classes and 930 folders.
+[2023.01.23-09.12.00:909][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.01.23-09.12.00:910][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.23-09.12.00:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.23-09.12.00:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.01.23-09.12.00:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.01.23-09.12.00:911][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.23-09.12.00:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.23-09.12.00:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.01.23-09.12.00:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.01.23-09.12.00:911][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.01.23-09.12.00:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.01.23-09.12.00:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.01.23-09.12.00:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.23-09.12.00:912][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:912][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.01.23-09.12.00:912][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.23-09.12.00:912][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:912][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.01.23-09.12.00:912][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:912][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.23-09.12.00:912][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:912][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.01.23-09.12.00:912][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.23-09.12.00:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.01.23-09.12.00:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.23-09.12.00:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.01.23-09.12.00:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.23-09.12.00:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.01.23-09.12.00:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.01.23-09.12.00:914][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.01.23-09.12.00:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.01.23-09.12.00:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.01.23-09.12.00:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:914][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.01.23-09.12.00:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.01.23-09.12.00:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.01.23-09.12.00:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.01.23-09.12.00:915][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.23-09.12.00:915][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:915][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.23-09.12.00:915][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:915][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.01.23-09.12.00:915][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:916][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.23-09.12.00:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.23-09.12.00:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.01.23-09.12.00:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.01.23-09.12.00:916][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.23-09.12.00:916][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.23-09.12.00:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:916][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.01.23-09.12.00:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.01.23-09.12.00:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.01.23-09.12.00:917][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.23-09.12.00:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.01.23-09.12.00:917][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.01.23-09.12.00:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.01.23-09.12.00:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.01.23-09.12.00:918][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.23-09.12.00:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.23-09.12.00:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.01.23-09.12.00:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.01.23-09.12.00:918][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.23-09.12.00:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.23-09.12.00:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.01.23-09.12.00:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.23-09.12.00:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.01.23-09.12.00:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.01.23-09.12.00:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.01.23-09.12.00:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.01.23-09.12.00:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.01.23-09.12.00:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.01.23-09.12.00:920][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.01.23-09.12.00:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.01.23-09.12.00:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.01.23-09.12.00:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.01.23-09.12.00:921][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.01.23-09.12.00:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.01.23-09.12.00:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.01.23-09.12.00:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.01.23-09.12.00:921][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.01.23-09.12.00:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.01.23-09.12.00:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.01.23-09.12.00:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.01.23-09.12.00:922][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.01.23-09.12.00:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.01.23-09.12.00:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.01.23-09.12.00:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.01.23-09.12.00:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.01.23-09.12.00:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.01.23-09.12.00:964][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.01.23-09.12.00:968][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.01.23-09.12.01:024][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.23-09.12.01:025][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.23-09.12.01:026][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.23-09.12.01:030][  0]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.23-09.12.01:139][  0]LogRenderer: Reallocating scene render targets to support 848x412 Format 10 NumSamples 1 (Frame:1).
+[2023.01.23-09.12.01:189][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.01.23-09.12.01:189][  0]LogLoad: (Engine Initialization) Total time: 7.64 seconds
+[2023.01.23-09.12.01:189][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.23-09.12.01:225][  0]LogAssetRegistry: Asset discovery search completed in 4.4651 seconds
+[2023.01.23-09.12.01:230][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.01.23-09.12.01:231][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.23-09.12.04:188][334]LogTemp: Repeating last play command: Standalone Game
+[2023.01.23-09.12.04:199][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.23-09.12.08:713][334]LogSlate: Window 'Save Content' being destroyed
+[2023.01.23-09.12.08:723][334]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.23-09.12.08:762][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Cylinder" FILE="../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Content/Meshes/Cylinder.uasset" SILENT=true
+[2023.01.23-09.12.08:769][334]LogSavePackage: Moving '../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Saved/CylinderFC49A6ED4C475B784285DF9558CE3BD8.tmp' to '../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Content/Meshes/Cylinder.uasset'
+[2023.01.23-09.12.08:789][335]AssetCheck: New page: Asset Save: Cylinder
+[2023.01.23-09.12.08:790][335]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Cylinder.Cylinder
+[2023.01.23-09.12.39:300][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.23-09.12.39:300][310]PIE: New page: PIE session: MainMenuLevel (23 jan. 2023 11:12:39)
+[2023.01.23-09.12.39:302][310]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.23-09.12.39:303][310]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.23-09.12.39:303][310]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.01.23-09.12.39:304][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000845s)
+[2023.01.23-09.12.39:305][310]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.01.23-09.12.39:305][310]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2023.01.23-09.12.39:305][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001700s)
+[2023.01.23-09.12.39:308][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.23-09.12.39:308][310]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.23-09.12.39:308][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.23-09.12.39:308][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.23-09.12.39:308][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.23-09.12.39:308][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.23-09.12.39:308][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.23-09.12.39:309][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.23-09.12.39:309][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.23-09.12.39:309][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.23-09.12.39:309][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.23-09.12.39:309][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.23-09.12.39:309][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.23-09.12.39:309][310]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.23-09.12.39:313][310]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.23-09.12.39:313][310]LogAudioMixer: Display: 1: FrontRight
+[2023.01.23-09.12.39:316][310]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2023.01.23-09.12.39:316][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.23-09.12.39:316][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.23-09.12.39:316][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.23-09.12.39:317][310]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.23-09.12.39:317][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.23-09.12.39:317][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.23-09.12.39:318][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.23-09.12.39:318][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.23-09.12.39:318][310]LogInit: FAudioDevice initialized.
+[2023.01.23-09.12.39:318][310]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenuLevel'.
+[2023.01.23-09.12.39:533][310]LogLoad: Game class is 'BP_MyGameMode_C'
+[2023.01.23-09.12.39:534][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.01.23-10.12.39
+[2023.01.23-09.12.39:534][310]LogWorld: Bringing up level for play took: 0.000265
+[2023.01.23-09.12.39:534][310]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.01.23-09.12.39:537][310]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.01.23-09.12.39:539][310]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.01.23-09.12.39:539][310]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.23-09.12.39:539][310]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.01.23-09.12.39:539][310]PIE: Server logged in
+[2023.01.23-09.12.39:540][310]PIE: Play in editor total start time 0,241 seconds.
+[2023.01.23-09.12.43:288][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.12.43:288][743]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.01.23-09.12.43:289][743]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.12.43:289][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.12.43:298][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.23-09.12.43:300][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.12.43:302][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.12.43:302][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-09.12.43:305][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-09.12.43:306][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.12.43:310][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.23-09.12.43:350][747]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.01.23-09.13.16:257][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.23-09.13.21:896][307]LogMainFrame: Selected target: DemoProject
+[2023.01.23-09.13.21:897][307]LogLauncherProfile: Unable to use promoted target - receipt ../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Binaries/Win64/DemoProject-Win64-Shipping.target is not for a promoted target
+[2023.01.23-09.13.21:947][307]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2023.01.23-09.13.22:022][315]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject -cook -stage -archive -archivedirectory=C:/Users/stass/Documents/UE4/Formations/Necromancy/Build -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -target=DemoProject -clientconfig=Shipping -utf8output
+[2023.01.23-09.13.22:480][370]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject
+[2023.01.23-09.13.22:687][395]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2023.01.23-09.13.22:712][398]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe DemoProject Win64 Shipping -Project=C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject  C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject -NoUBTMakefiles  -remoteini="C:\Users\stass\Documents\UE4\Formations\Necromancy" -skipdeploy -Manifest=C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\stass\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-DemoProject-Win64-Shipping.txt"
+[2023.01.23-09.13.22:989][431]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\stass\Documents\UE4\Formations).
+[2023.01.23-09.13.24:008][553]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Manifest.xml
+[2023.01.23-09.13.24:141][569]UATHelper: Packaging (Windows (64-bit)):   Building DemoProject...
+[2023.01.23-09.13.24:141][569]UATHelper: Packaging (Windows (64-bit)):   Using Visual Studio 2022 14.34.31933 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.23-09.13.24:159][571]UATHelper: Packaging (Windows (64-bit)):   Building 3 actions with 16 processes...
+[2023.01.23-09.13.26:625][867]UATHelper: Packaging (Windows (64-bit)):     [1/3] Spline.cpp
+[2023.01.23-09.13.26:625][867]UATHelper: Packaging (Windows (64-bit)):     C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\Spline.cpp(27): error C2039: 'SetMaterial': is not a member of 'UStaticMesh'
+[2023.01.23-09.13.26:625][867]UATHelper: Packaging (Windows (64-bit)):     C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ContentStreaming.h(33): note: see declaration of 'UStaticMesh'
+[2023.01.23-09.13.26:625][867]UATHelper: Packaging (Windows (64-bit)):     C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\Spline.cpp(22): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.01.23-09.13.26:699][876]UATHelper: Packaging (Windows (64-bit)): Took 3,9907369s to run UnrealBuildTool.exe, ExitCode=6
+[2023.01.23-09.13.26:699][876]UATHelper: Packaging (Windows (64-bit)): UnrealBuildTool failed. See log for more details. (C:\Users\stass\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-DemoProject-Win64-Shipping.txt)
+[2023.01.23-09.13.26:716][878]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=6 (6)
+[2023.01.23-09.13.26:735][879]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2023.01.23-09.13.26:735][879]PackagingResults: Error: Unknown Error
+[2023.01.23-09.14.49:995][596]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.23-09.14.52:312][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.23-09.14.52:429][868]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level01.Level01
+[2023.01.23-09.14.52:430][868]Cmd: MAP LOAD FILE="../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Content/Levels/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.23-09.14.52:430][868]LightingResults: New page: Lighting Build
+[2023.01.23-09.14.52:430][868]LoadErrors: New page: Loading map: Level01.umap
+[2023.01.23-09.14.52:467][868]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.14.52:467][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.14.52:467][868]MapCheck: New page: Map Check
+[2023.01.23-09.14.52:467][868]LightingResults: New page: Lighting Build
+[2023.01.23-09.14.52:472][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.14.52:475][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.23-09.14.52:476][868]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2023.01.23-09.14.52:491][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.23-09.14.52:491][868]LogAIModule: Creating AISystem for world Level01
+[2023.01.23-09.14.52:499][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.23-09.14.52:506][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.23-09.14.52:506][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,108ms to complete.
+[2023.01.23-09.14.52:506][868]LogFileHelpers: Loading map 'Level01' took 0.076
+[2023.01.23-09.14.54:322][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.23-09.14.54:328][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.23-09.14.54:328][ 55]PIE: New page: PIE session: Level01 (23 jan. 2023 11:14:54)
+[2023.01.23-09.14.54:338][ 55]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level01
+[2023.01.23-09.14.54:352][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014213s)
+[2023.01.23-09.14.54:354][ 55]LogAIModule: Creating AISystem for world Level01
+[2023.01.23-09.14.54:354][ 55]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2023.01.23-09.14.54:354][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level01.Level01 to /Game/Levels/UEDPIE_0_Level01.Level01 (0.015400s)
+[2023.01.23-09.14.54:358][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.23-09.14.54:359][ 55]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.23-09.14.54:359][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.23-09.14.54:359][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.23-09.14.54:359][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.23-09.14.54:359][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.23-09.14.54:359][ 55]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.23-09.14.54:362][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.23-09.14.54:363][ 55]LogAudioMixer: Display: 1: FrontRight
+[2023.01.23-09.14.54:369][ 55]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2023.01.23-09.14.54:369][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.23-09.14.54:369][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.23-09.14.54:369][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.23-09.14.54:370][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.23-09.14.54:370][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.23-09.14.54:370][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.23-09.14.54:372][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.23-09.14.54:372][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.23-09.14.54:372][ 55]LogInit: FAudioDevice initialized.
+[2023.01.23-09.14.54:372][ 55]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level01'.
+[2023.01.23-09.14.54:378][ 55]LogLoad: Game class is 'BP_MyGameMode_C'
+[2023.01.23-09.14.54:383][ 55]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2023.01.23-10.14.54
+[2023.01.23-09.14.54:384][ 55]LogWorld: Bringing up level for play took: 0.005970
+[2023.01.23-09.14.54:385][ 55]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.01.23-09.14.54:390][ 55]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.23-09.14.54:390][ 55]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.01.23-09.14.54:391][ 55]PIE: Server logged in
+[2023.01.23-09.14.54:391][ 55]PIE: Play in editor total start time 0,064 seconds.
+[2023.01.23-09.15.07:108][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.15.07:108][517]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2023.01.23-09.15.07:108][517]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.15.07:109][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.15.07:114][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.23-09.15.07:115][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.15.07:120][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.15.07:120][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-09.15.07:121][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-09.15.07:123][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.15.07:125][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.23-09.15.07:188][522]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.01.23-09.15.11:959][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.01.23-09.15.11:985][ 62]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.01.23-09.15.11:986][ 62]Cmd: MAP LOAD FILE="../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.23-09.15.11:986][ 62]LightingResults: New page: Lighting Build
+[2023.01.23-09.15.11:986][ 62]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.01.23-09.15.11:988][ 62]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.15.11:988][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.15.11:989][ 62]MapCheck: New page: Map Check
+[2023.01.23-09.15.11:989][ 62]LightingResults: New page: Lighting Build
+[2023.01.23-09.15.11:992][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.15.11:996][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.01.23-09.15.11:998][ 62]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.01.23-09.15.11:998][ 62]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.23-09.15.11:998][ 62]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.01.23-09.15.12:003][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.23-09.15.12:010][ 62]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.23-09.15.12:010][ 62]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2023.01.23-09.15.12:010][ 62]LogFileHelpers: Loading map 'MainMenuLevel' took 0.024
+[2023.01.23-09.15.14:052][301]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.23-09.15.14:059][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.23-09.15.14:059][301]PIE: New page: PIE session: MainMenuLevel (23 jan. 2023 11:15:14)
+[2023.01.23-09.15.14:059][301]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.01.23-09.15.14:060][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000761s)
+[2023.01.23-09.15.14:061][301]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.01.23-09.15.14:061][301]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2023.01.23-09.15.14:061][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001522s)
+[2023.01.23-09.15.14:066][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.23-09.15.14:067][301]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.23-09.15.14:067][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.23-09.15.14:067][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.23-09.15.14:067][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.23-09.15.14:067][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.23-09.15.14:067][301]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.23-09.15.14:070][301]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.23-09.15.14:070][301]LogAudioMixer: Display: 1: FrontRight
+[2023.01.23-09.15.14:074][301]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (Oculus Virtual Audio Device)
+[2023.01.23-09.15.14:074][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.23-09.15.14:074][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.23-09.15.14:074][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.23-09.15.14:074][301]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.23-09.15.14:074][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.23-09.15.14:074][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.23-09.15.14:076][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.23-09.15.14:076][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.23-09.15.14:076][301]LogInit: FAudioDevice initialized.
+[2023.01.23-09.15.14:076][301]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2023.01.23-09.15.14:082][301]LogLoad: Game class is 'BP_MyGameMode_C'
+[2023.01.23-09.15.14:083][301]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.01.23-10.15.14
+[2023.01.23-09.15.14:083][301]LogWorld: Bringing up level for play took: 0.000266
+[2023.01.23-09.15.14:083][301]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.01.23-09.15.14:086][301]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.01.23-09.15.14:086][301]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.23-09.15.14:086][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.01.23-09.15.14:086][301]PIE: Server logged in
+[2023.01.23-09.15.14:087][301]PIE: Play in editor total start time 0,029 seconds.
+[2023.01.23-09.15.16:197][552]LogNet: Browse: /Game/Levels/Level01
+[2023.01.23-09.15.16:197][552]LogLoad: LoadMap: /Game/Levels/Level01
+[2023.01.23-09.15.16:197][552]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.01.23-09.15.16:198][552]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.15.16:198][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.15.16:230][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.15.16:231][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.23-09.15.16:255][552]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level01'.
+[2023.01.23-09.15.16:255][552]LogAIModule: Creating AISystem for world Level01
+[2023.01.23-09.15.16:256][552]LogLoad: Game class is 'BP_MyGameMode_C'
+[2023.01.23-09.15.16:265][552]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2023.01.23-10.15.16
+[2023.01.23-09.15.16:267][552]LogWorld: Bringing up level for play took: 0.010507
+[2023.01.23-09.15.16:270][552]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.01.23-09.15.16:271][552]LogLoad: Took 0.073113 seconds to LoadMap(/Game/Levels/Level01)
+[2023.01.23-09.16.24:765][693]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.23-09.16.25:388][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.16.25:388][752]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level01
+[2023.01.23-09.16.25:389][752]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2023.01.23-09.16.25:390][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.16.25:396][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.23-09.16.25:398][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.23-09.16.25:402][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.23-09.16.25:402][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-09.16.25:403][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.23-09.16.25:405][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.23-09.16.25:408][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.01.23-09.16.25:458][758]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.01.23-09.16.27:223][959]Candidate modules for hot reload:
+[2023.01.23-09.16.27:223][959]  DemoProject
+[2023.01.23-09.16.27:223][959]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DemoProject,8457 DemoProjectEditor Win64 Development -Project="C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject" "C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject"  -IgnoreJunk]
+[2023.01.23-09.16.27:226][959]Warning: Starting HotReload took  0.1s.
+[2023.01.23-09.16.28:586][ 96]CompilerResultsLog: New page: Compilation - 23 jan. 2023 11:16:28
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\stass\Documents\UE4\Formations).
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog: Building DemoProjectEditor...
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog: Using Visual Studio 2022 14.34.31933 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog: Building 3 actions with 16 processes...
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog:   [1/3] UE4Editor-DemoProject-8457.lib
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog:      Creating library C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-8457.lib and object C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-8457.exp
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog:   [2/3] UE4Editor-DemoProject-8457.dll
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog:      Creating library C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-8457.suppressed.lib and object C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-8457.suppressed.exp
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog:   [3/3] DemoProjectEditor.target
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog: Total time in Parallel executor: 0,75 seconds
+[2023.01.23-09.16.28:587][ 96]CompilerResultsLog: Total execution time: 1,30 seconds
+[2023.01.23-09.16.28:587][ 96]LogMainFrame: MainFrame: Module compiling took 1.368 seconds
+[2023.01.23-09.16.30:803][ 96]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DemoProject' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2023.01.23-09.16.30:805][ 96]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2023.01.23-09.16.30:852][ 96]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3827 classes and 930 folders.
+[2023.01.23-09.16.30:855][ 96]Display: HotReload took  3.7s.
+[2023.01.23-09.16.36:533][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.23-09.16.39:835][758]LogMainFrame: Selected target: DemoProject
+[2023.01.23-09.16.39:836][758]LogLauncherProfile: Unable to use promoted target - receipt ../../../../../../Users/stass/Documents/UE4/Formations/Necromancy/Binaries/Win64/DemoProject-Win64-Shipping.target is not for a promoted target
+[2023.01.23-09.16.39:872][759]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2023.01.23-09.16.39:948][767]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject -cook -stage -archive -archivedirectory=C:/Users/stass/Documents/UE4/Formations/Necromancy/Build -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -target=DemoProject -clientconfig=Shipping -utf8output
+[2023.01.23-09.16.40:405][822]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject
+[2023.01.23-09.16.40:614][847]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2023.01.23-09.16.40:621][848]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\DotNET\UnrealBuildTool.exe DemoProject Win64 Shipping -Project=C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject  C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject -NoUBTMakefiles  -remoteini="C:\Users\stass\Documents\UE4\Formations\Necromancy" -skipdeploy -Manifest=C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Manifest.xml -NoHotReload -log="C:\Users\stass\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-DemoProject-Win64-Shipping.txt"
+[2023.01.23-09.16.40:883][879]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (C:\Users\stass\Documents\UE4\Formations).
+[2023.01.23-09.16.41:474][950]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for DemoProject
+[2023.01.23-09.16.41:491][952]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "C:\Users\stass\Documents\UE4\Formations\Necromancy\Necromancy.uproject" "C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\DemoProject\Shipping\DemoProject.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\stass\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UHT-DemoProject-Win64-Shipping.txt" -installed
+[2023.01.23-09.16.41:874][998]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2023.01.23-09.16.43:993][252]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for DemoProject in 2,5014146 seconds
+[2023.01.23-09.16.44:167][273]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Manifest.xml
+[2023.01.23-09.16.44:249][283]UATHelper: Packaging (Windows (64-bit)):   Building DemoProject...
+[2023.01.23-09.16.44:249][283]UATHelper: Packaging (Windows (64-bit)):   Using Visual Studio 2022 14.34.31933 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.23-09.16.44:259][284]UATHelper: Packaging (Windows (64-bit)):   Building 3 actions with 16 processes...
+[2023.01.23-09.16.44:675][334]UATHelper: Packaging (Windows (64-bit)):     [1/3] Spline.cpp
+[2023.01.23-09.16.44:675][334]UATHelper: Packaging (Windows (64-bit)):     C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\Spline.cpp(27): error C2039: 'SetMaterial': is not a member of 'UStaticMesh'
+[2023.01.23-09.16.44:675][334]UATHelper: Packaging (Windows (64-bit)):     C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ContentStreaming.h(33): note: see declaration of 'UStaticMesh'
+[2023.01.23-09.16.44:734][341]UATHelper: Packaging (Windows (64-bit)): Took 4,1123986s to run UnrealBuildTool.exe, ExitCode=6
+[2023.01.23-09.16.44:741][342]UATHelper: Packaging (Windows (64-bit)): UnrealBuildTool failed. See log for more details. (C:\Users\stass\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UBT-DemoProject-Win64-Shipping.txt)
+[2023.01.23-09.16.44:751][343]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=6 (6)
+[2023.01.23-09.16.44:764][344]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2023.01.23-09.16.44:764][344]PackagingResults: Error: Unknown Error
+[2023.01.23-09.19.16:584][936]Candidate modules for hot reload:
+[2023.01.23-09.19.16:584][936]  DemoProject
+[2023.01.23-09.19.16:584][936]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DemoProject,7727 DemoProjectEditor Win64 Development -Project="C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject" "C:/Users/stass/Documents/UE4/Formations/Necromancy/Necromancy.uproject"  -IgnoreJunk]
+[2023.01.23-09.19.16:586][936]Warning: Starting HotReload took  0.0s.
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: New page: Compilation - 23 jan. 2023 11:19:18
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\stass\Documents\UE4\Formations).
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: Building DemoProjectEditor...
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: Using Visual Studio 2022 14.34.31933 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: Building 3 actions with 16 processes...
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog:   [1/3] UE4Editor-DemoProject-7727.lib
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog:      Creating library C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-7727.lib and object C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-7727.exp
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog:   [2/3] UE4Editor-DemoProject-7727.dll
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog:      Creating library C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-7727.suppressed.lib and object C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\UE4Editor-DemoProject-7727.suppressed.exp
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog:   [3/3] DemoProjectEditor.target
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: Total time in Parallel executor: 0,71 seconds
+[2023.01.23-09.19.18:010][ 18]CompilerResultsLog: Total execution time: 1,35 seconds
+[2023.01.23-09.19.18:010][ 18]LogMainFrame: MainFrame: Module compiling took 1.430 seconds
+[2023.01.23-09.19.20:033][ 18]LogUObjectGlobals: Warning: Failed to find object 'StaticMeshComponent /Game/Meshes/Cylinder.Cylinder'
+[2023.01.23-09.19.20:033][ 18]Error: CDO Constructor (Spline): Failed to find StaticMesh'/Game/Meshes/Cylinder.Cylinder'
+
+[2023.01.23-09.19.20:033][ 18]LogUObjectGlobals: Warning: Failed to find object 'Material /Game/Materials/MI_Spline.MI_Spline'
+[2023.01.23-09.19.20:033][ 18]Error: CDO Constructor (Spline): Failed to find MaterialInstanceConstant'/Game/Materials/MI_Spline.MI_Spline'
+

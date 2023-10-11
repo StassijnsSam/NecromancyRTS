@@ -1,0 +1,9 @@
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Development\DemoProject\Definitions.DemoProject.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\ZombieGroup.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Source\DemoProject\Spline.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineMeshComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineMeshComponent.generated.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Inc\DemoProject\Spline.generated.h
+C:\Users\stass\Documents\UE4\Formations\Necromancy\Intermediate\Build\Win64\UE4Editor\Inc\DemoProject\ZombieGroup.generated.h
